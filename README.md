@@ -5,4 +5,6 @@ An extensive and commented list of resources on Learned Sparse Retrieval.
 
 ## Indexing
 
+## Datasets
+
 ## Libraries
