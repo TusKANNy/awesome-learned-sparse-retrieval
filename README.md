@@ -104,7 +104,9 @@ An extensive and commented list of resources on Learned Sparse Retrieval.
 
 
 #### `MS MARCO v1`
-- **Dataset info:** `#docs=8841823` | `#queries=6980`
+- **Documents:** `8,841,823`
+- **Queries:** `6,980`
+- **Reference Metric:** `MRR@10`
 
 
 | Encoding | Link | Avg non-zero (docs) | Avg non-zero (queries) | MRR@10 |
@@ -116,16 +118,18 @@ An extensive and commented list of resources on Learned Sparse Retrieval.
 | `li-lsr-big` | [link](https://huggingface.co/datasets/tuskanny/lilsr_big_msmarco) | `387` | `6` | `38.8` |
 
 #### `NQ`
-- **Dataset info:** `#docs=2680893` | `#queries=3452`
-- **Notes:** Fill dataset-level counts when available.
+- **Documents:** `2,680,893`
+- **Queries:** `3,452`
+- **Reference Metric:** `NDCG@10`
 
 | Encoding | Link | Avg non-zero (docs) | Avg non-zero (queries) | NDCG@10 |
 |---|---|---:|---:|---:|
 | `splade-cocondenser-ensembledistil` | [link](https://huggingface.co/datasets/tuskanny/seismic-nq-splade) | `153` | `51` | `53.9` |
 
 #### `LoTTE-pooled`
-- **Dataset info:** `#docs=2428854` | `#queries=2931`
-- **Notes:** Fill dataset-level counts when available.
+- **Documents:** `2,428,854`
+- **Queries:** `2,931`
+- **Reference Metric:** `Success@5`
 
 | Encoding | Link | Avg non-zero (docs) | Avg non-zero (queries) | Success@5 |
 |---|---|---:|---:|---:|
@@ -133,8 +137,9 @@ An extensive and commented list of resources on Learned Sparse Retrieval.
 | `li-lsr-big` | [link](https://huggingface.co/datasets/tuskanny/lilsr_lotte) | `N/A` | `N/A` | `65.7` |
 
 #### `Quora`
-- **Dataset info:** `#docs=522931` | `#queries=10000>`
-- **Notes:** Reference metric is `nDCG@10`.
+- **Documents:** `522,931`
+- **Queries:** `10,000`
+- **Reference Metric:** `nDCG@10`
 
 | Encoding | Link | Avg non-zero (docs) | Avg non-zero (queries) | nDCG@10 |
 |---|---|---:|---:|---:|
