@@ -1,12 +1,12 @@
 # Awesome Learned Sparse Retrieval
-An extensive and commented list of resources on Learned Sparse Retrieval.
+An extensive and commented list of resources on Learned Sparse Retrieval. Most of the resources below refer to learned sparse representations for **text** retrieval.
 
 ## Learning
 
 - *From Neural Re-Ranking to Neural Ranking: Learning a Sparse Representation for Inverted Indexing*<br>
   Hamed Zamani, Mostafa Dehghani, W. Bruce Croft, Erik Learned-Miller, Jaap Kamps<br>
   CIKM, 2018
-- *Expansion via Prediction of Importance with Contextualization*<br>
+- *Expansion via Prediction of Importance with Contextualization (EPIC)*<br>
   Sean MacAvaney, Franco Maria Nardini, Raffaele Perego, Nicola Tonellotto, Nazli Goharian, Ophir Frieder<br>
   SIGIR, 2020
 - *Context-Aware Term Weighting For First Stage Passage Retrieval*<br>
@@ -78,7 +78,7 @@ An extensive and commented list of resources on Learned Sparse Retrieval.
 - *Leveraging decoder architectures for learned sparse retrieval*<br>
   Jingfen Qiao, Thong Nguyen, Evangelos Kanoulas, Andrew Yates<br>
   International Workshop on Knowledge-Enhanced Information Retrieval, 2025
-- *Scaling sparse and dense retrieval in decoder-only llms*<br>
+- *Scaling sparse and dense retrieval in decoder-only LLMs*<br>
   Hansi Zeng, Julian Killingback, Hamed Zamani<br>
   SIGIR, 2025
 - *CSPLADE: Learned Sparse Retrieval with Causal Language Models*<br>
