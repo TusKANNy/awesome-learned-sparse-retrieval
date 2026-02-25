@@ -5,25 +5,25 @@ An extensive and commented list of resources on Learned Sparse Retrieval. Most o
 
 - *From Neural Re-Ranking to Neural Ranking: Learning a Sparse Representation for Inverted Indexing*<br>
   Hamed Zamani, Mostafa Dehghani, W. Bruce Croft, Erik Learned-Miller, Jaap Kamps<br>
-  CIKM, 2018
+  CIKM, 2018. 📄 [paper](https://dl.acm.org/doi/10.1145/3269206.3271800).
 - *Expansion via Prediction of Importance with Contextualization (EPIC)*<br>
   Sean MacAvaney, Franco Maria Nardini, Raffaele Perego, Nicola Tonellotto, Nazli Goharian, Ophir Frieder<br>
-  SIGIR, 2020
+  SIGIR, 2020. 📄 [paper](https://dl.acm.org/doi/10.1145/3397271.3401262).
 - *Context-Aware Term Weighting For First Stage Passage Retrieval*<br>
   Zhuyun Dai, Jamie Callan<br>
-  SIGIR, 2020
+  SIGIR, 2020. 📄 [paper](https://dl.acm.org/doi/abs/10.1145/3397271.3401204).
 - *Learning Passage Impacts for Inverted Indexes*<br>
   Antonio Mallia, Omar Khattab, Torsten Suel, Nicola Tonellotto<br>
-  SIGIR, 2021
+  SIGIR, 2021. 📄 [paper](https://dl.acm.org/doi/10.1145/3404835.3463030).
 - *SPLADE: Sparse Lexical and Expansion Model for First Stage Ranking*<br>
   Thibault Formal, Benjamin Piwowarski, Stephane Clinchant<br>
-  SIGIR, 2021
+  SIGIR, 2021. 📄 [paper](https://dl.acm.org/doi/10.1145/3404835.3463098).
 - *SPLADE v2: Sparse Lexical and Expansion Model for Information Retrieval*<br>
   Thibault Formal, Carlos Lassance, Benjamin Piwowarski, Stephane Clinchant<br>
-  CoRR, 2021
+  CoRR, 2021.  📄 [paper](https://arxiv.org/abs/2109.10086).
 - *SPARTA: Efficient Open-Domain Question Answering via Sparse Transformer Matching Retrieval*<br>
   Tiancheng Zhao, Xiaopeng Lu, Kyusong Lee<br>
-  NAACL, 2021
+  NAACL, 2021.  📄 [paper](https://dl.acm.org/doi/10.1145/3404835.3463098).
 - *TILDE: Term Independent Likelihood moDEl for Passage Re-ranking*<br>
   Shengyao Zhuang, Guido Zuccon<br>
   SIGIR, 2021
