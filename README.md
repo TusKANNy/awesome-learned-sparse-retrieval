@@ -1,7 +1,7 @@
 # Awesome Learned Sparse Retrieval
 An extensive and commented list of resources on Learned Sparse Retrieval. Most of the resources below refer to learned sparse representations for **text** retrieval.
 
-## Learning
+## Learned Sparse Retrieval Models
 
 - *From Neural Re-Ranking to Neural Ranking: Learning a Sparse Representation for Inverted Indexing*<br>
   Hamed Zamani, Mostafa Dehghani, W. Bruce Croft, Erik Learned-Miller, Jaap Kamps<br>
