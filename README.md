@@ -92,7 +92,7 @@ An extensive and commented list of resources on Learned Sparse Retrieval. Most o
   ECIR, 2025. 📄 [paper]().
 - *Learning Retrieval Models with Sparse Autoencoders*<br>
   Thibault Formal, Maxime Louis, Hervé Déjean, Stéphane Clinchant<br>
-  ICLR 2025. 📄 [paper](https://openreview.net/forum?id=TuFjICawSc).
+  ICLR, 2025. 📄 [paper](https://openreview.net/forum?id=TuFjICawSc).
 
 ## Indexing
 - *Faster top-k document retrieval using block-max indexes*<br>
