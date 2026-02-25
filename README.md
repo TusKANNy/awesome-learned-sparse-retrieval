@@ -102,4 +102,44 @@ An extensive and commented list of resources on Learned Sparse Retrieval.
   📄 [paper](https://link.springer.com/chapter/10.1007/978-3-031-88717-8_29) | 📥 [download pdf](https://arxiv.org/pdf/2501.06121) | 🛠️ [code](https://github.com/TusKANNy/kannolo)
 ## Datasets
 
+
+#### `MS MARCO v1`
+- **Dataset info:** `#docs=8841823` | `#queries=6980`
+
+
+| Encoding | Link | Avg non-zero (docs) | Avg non-zero (queries) | MRR@10 |
+|---|---|---:|---:|---:|
+| `splade-cocondenser` | [link](https://huggingface.co/datasets/tuskanny/seismic-msmarco-splade-bin/tree/main) | `119` | `43` | `38.3` |
+| `efficient-splade` | [link](https://huggingface.co/datasets/tuskanny/seismic-msmarco-effsplade) | `181` | `5.9` | `38.8` |
+| `uniCOIL-T5` | [link](https://huggingface.co/datasets/tuskanny/seismic-msmarco-unicoilT5) | `68` | `6` | `35.2` |
+| `splade-v3` | [link](https://huggingface.co/datasets/tuskanny/msmarco-spladev3/tree/main) | `168` | `24` | `40.3` |
+| `li-lsr-big` | [link](https://huggingface.co/datasets/tuskanny/lilsr_big_msmarco) | `387` | `6` | `38.8` |
+
+#### `NQ`
+- **Dataset info:** `#docs=2680893` | `#queries=3452`
+- **Notes:** Fill dataset-level counts when available.
+
+| Encoding | Link | Avg non-zero (docs) | Avg non-zero (queries) | NDCG@10 |
+|---|---|---:|---:|---:|
+| `splade-cocondenser-ensembledistil` | [link](https://huggingface.co/datasets/tuskanny/seismic-nq-splade) | `153` | `51` | `53.9` |
+
+#### `LoTTE-pooled`
+- **Dataset info:** `#docs=2428854` | `#queries=2931`
+- **Notes:** Fill dataset-level counts when available.
+
+| Encoding | Link | Avg non-zero (docs) | Avg non-zero (queries) | Success@5 |
+|---|---|---:|---:|---:|
+| `splade-cocondenser` | `N/A` | `N/A` | `N/A` | `69.0` |
+| `li-lsr-big` | [link](https://huggingface.co/datasets/tuskanny/lilsr_lotte) | `N/A` | `N/A` | `65.7` |
+
+#### `Quora`
+- **Dataset info:** `#docs=522931` | `#queries=10000>`
+- **Notes:** Reference metric is `nDCG@10`.
+
+| Encoding | Link | Avg non-zero (docs) | Avg non-zero (queries) | nDCG@10 |
+|---|---|---:|---:|---:|
+| `splade-v3` | [link](https://huggingface.co/datasets/tuskanny/quora-sparse) | `N/A` | `N/A` | `81.4` |
+
+
+
 ## Libraries
