@@ -104,9 +104,9 @@ An extensive and commented list of resources on Learned Sparse Retrieval.
 
 
 #### `MS MARCO v1`
-- **Documents:** `8,841,823`
-- **Queries:** `6,980`
-- **Reference Metric:** `MRR@10`
+- **Documents**: `8,841,823`
+- **Queries** [`dev.small`]: `6,980` 
+- **Reference Metric**: `MRR@10`
 
 
 | Encoding | Link | Avg non-zero (docs) | Avg non-zero (queries) | MRR@10 |
@@ -117,19 +117,32 @@ An extensive and commented list of resources on Learned Sparse Retrieval.
 | `splade-v3` | [link](https://huggingface.co/datasets/tuskanny/msmarco-spladev3/tree/main) | `168` | `24` | `40.3` |
 | `li-lsr-big` | [link](https://huggingface.co/datasets/tuskanny/lilsr_big_msmarco) | `387` | `6` | `38.8` |
 
+
+#### `MS MARCO v2`
+
+- **Documents**: `138,363,364`
+- **Queries** [`dev1.small`]: `3,903`
+- **Reference Metric**: `MRR@10`
+
+| Encoding | Link | Avg non-zero (docs) | Avg non-zero (queries) | MRR@10 |
+|---|---|---:|---:|---:|
+| `splade-cocondenser` | [link](https://huggingface.co/datasets/tuskanny/msmarco-v2-splade) | `127` | `44` | `10.88` |
+
+
+
 #### `NQ`
-- **Documents:** `2,680,893`
-- **Queries:** `3,452`
-- **Reference Metric:** `NDCG@10`
+- **Documents**: `2,680,893`
+- **Queries**: `3,452`
+- **Reference Metric**: `NDCG@10`
 
 | Encoding | Link | Avg non-zero (docs) | Avg non-zero (queries) | NDCG@10 |
 |---|---|---:|---:|---:|
-| `splade-cocondenser-ensembledistil` | [link](https://huggingface.co/datasets/tuskanny/seismic-nq-splade) | `153` | `51` | `53.9` |
+| `splade-cocondenser` | [link](https://huggingface.co/datasets/tuskanny/seismic-nq-splade) | `153` | `51` | `53.9` |
 
 #### `LoTTE-pooled`
-- **Documents:** `2,428,854`
-- **Queries:** `2,931`
-- **Reference Metric:** `Success@5`
+- **Documents**: `2,428,854`
+- **Queries** [`dev/search`]: `2,931`
+- **Reference Metric**: `Success@5`
 
 | Encoding | Link | Avg non-zero (docs) | Avg non-zero (queries) | Success@5 |
 |---|---|---:|---:|---:|
@@ -137,13 +150,14 @@ An extensive and commented list of resources on Learned Sparse Retrieval.
 | `li-lsr-big` | [link](https://huggingface.co/datasets/tuskanny/lilsr_lotte) | `469` | `9` | `65.7` |
 
 #### `Quora`
-- **Documents:** `522,931`
-- **Queries:** `10,000`
-- **Reference Metric:** `nDCG@10`
+- **Documents**: `522,931`
+- **Queries** [`test`] :  `10,000`
+- **Reference Metric**: `nDCG@10`
 
 | Encoding | Link | Avg non-zero (docs) | Avg non-zero (queries) | nDCG@10 |
 |---|---|---:|---:|---:|
 | `splade-v3` | [link](https://huggingface.co/datasets/tuskanny/quora-sparse) | `40` | `36` | `81.4` |
+
 
 
 
