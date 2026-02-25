@@ -7,11 +7,11 @@ An extensive and commented list of resources on Learned Sparse Retrieval.
 - *Faster top-k document retrieval using block-max indexes*<br>
   Shuai Ding, Torsten Suel<br>
   SIGIR, 2011<br>
-  📄 [paper](https://doi.org/10.1145/2009916.2010049)
+  📄 [paper](https://doi.org/10.1145/2009916.2010048)
 - *Optimizing top-k document retrieval strategies for block-max indexes*<br>
   Constantinos Dimopoulos, Sergey Nepomnyachiy, Torsten Suel<br>
   WSDM, 2013<br>
-  📄 [paper](https://doi.org/10.1145/2433396.2433411)
+  📄 [paper](https://doi.org/10.1145/2433396.2433412)
 - *Faster BlockMax WAND with Variable-sized Blocks*<br>
   Antonio Mallia, Giuseppe Ottaviano, Elia Porciani, Nicola Tonellotto, Rossano Venturini<br>
   SIGIR, 2017<br>
@@ -47,7 +47,7 @@ An extensive and commented list of resources on Learned Sparse Retrieval.
 - *A Static Pruning Study on Sparse Neural Retrievers*<br>
   Carlos Lassance, Simon Lupart, Herve Dejean, Stephane Clinchant, Nicola Tonellotto<br>
   SIGIR, 2023<br>
-  📄 [paper](https://doi.org/10.1145/3539618.3591680)
+  📄 [paper](https://doi.org/10.1145/3539618.3591941)
 - *An Approximate Algorithm for Maximum Inner Product Search over Streaming Sparse Vectors*<br>
   Sebastian Bruch, Franco Maria Nardini, Amir Ingber, Edo Liberty<br>
   CoRR, 2023<br>
@@ -71,7 +71,7 @@ An extensive and commented list of resources on Learned Sparse Retrieval.
 - *Efficient Inverted Indexes for Approximate Retrieval over Learned Sparse Representations*<br>
   Sebastian Bruch, Franco Maria Nardini, Cosimo Rulli, Rossano Venturini<br>
   SIGIR, 2024<br>
-  📄 [paper](https://doi.org/10.1145/3626772.3657856) | 🛠️ [code](https://github.com/TusKANNy/seismic)
+  📄 [paper](https://doi.org/10.1145/3626772.3657769) | 🛠️ [code](https://github.com/TusKANNy/seismic)
 - *Faster Learned Sparse Retrieval with Block-Max Pruning*<br>
   Antonio Mallia, Torsten Suel, Nicola Tonellotto<br>
   SIGIR, 2024<br>
