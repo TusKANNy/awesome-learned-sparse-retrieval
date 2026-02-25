@@ -112,7 +112,7 @@ An extensive and commented list of resources on Learned Sparse Retrieval.
 | Encoding | Link | Avg non-zero (docs) | Avg non-zero (queries) | MRR@10 |
 |---|---|---:|---:|---:|
 | `splade-cocondenser` | [link](https://huggingface.co/datasets/tuskanny/seismic-msmarco-splade-bin/tree/main) | `119` | `43` | `38.3` |
-| `efficient-splade` | [link](https://huggingface.co/datasets/tuskanny/seismic-msmarco-effsplade) | `181` | `5.9` | `38.8` |
+| `efficient-splade` | [link](https://huggingface.co/datasets/tuskanny/seismic-msmarco-effsplade) | `181` | `6` | `38.8` |
 | `uniCOIL-T5` | [link](https://huggingface.co/datasets/tuskanny/seismic-msmarco-unicoilT5) | `68` | `6` | `35.2` |
 | `splade-v3` | [link](https://huggingface.co/datasets/tuskanny/msmarco-spladev3/tree/main) | `168` | `24` | `40.3` |
 | `li-lsr-big` | [link](https://huggingface.co/datasets/tuskanny/lilsr_big_msmarco) | `387` | `6` | `38.8` |
@@ -134,7 +134,7 @@ An extensive and commented list of resources on Learned Sparse Retrieval.
 | Encoding | Link | Avg non-zero (docs) | Avg non-zero (queries) | Success@5 |
 |---|---|---:|---:|---:|
 | `splade-cocondenser` | `N/A` | `N/A` | `N/A` | `69.0` |
-| `li-lsr-big` | [link](https://huggingface.co/datasets/tuskanny/lilsr_lotte) | `N/A` | `N/A` | `65.7` |
+| `li-lsr-big` | [link](https://huggingface.co/datasets/tuskanny/lilsr_lotte) | `469` | `9` | `65.7` |
 
 #### `Quora`
 - **Documents:** `522,931`
@@ -143,7 +143,7 @@ An extensive and commented list of resources on Learned Sparse Retrieval.
 
 | Encoding | Link | Avg non-zero (docs) | Avg non-zero (queries) | nDCG@10 |
 |---|---|---:|---:|---:|
-| `splade-v3` | [link](https://huggingface.co/datasets/tuskanny/quora-sparse) | `N/A` | `N/A` | `81.4` |
+| `splade-v3` | [link](https://huggingface.co/datasets/tuskanny/quora-sparse) | `40` | `36` | `81.4` |
 
 
 
