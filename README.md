@@ -95,22 +95,10 @@ An extensive and commented list of resources on Learned Sparse Retrieval. Most o
   ICLR, 2025. 📄 [paper](https://openreview.net/forum?id=TuFjICawSc).
 
 ## Indexing
-- *Faster top-k document retrieval using block-max indexes*<br>
-  Shuai Ding, Torsten Suel<br>
-  SIGIR, 2011<br>
-  📄 [paper](https://doi.org/10.1145/2009916.2010048) | 📥 [download pdf](https://research.engineering.nyu.edu/~suel/papers/bmw.pdf)
-- *Faster BlockMax WAND with Variable-sized Blocks*<br>
-  Antonio Mallia, Giuseppe Ottaviano, Elia Porciani, Nicola Tonellotto, Rossano Venturini<br>
-  SIGIR, 2017<br>
-  📄 [paper](https://doi.org/10.1145/3077136.3080780) | 📥 [download pdf](https://pages.di.unipi.it/rossano/assets/pdf/papers/SIGIR17A.pdf) | 🛠️ [code](https://github.com/rossanoventurini/Variable-BMW)
-- *Faster BlockMax WAND with Longer Skipping*<br>
-  Antonio Mallia, Elia Porciani<br>
-  ECIR, 2019<br>
-  📄 [paper](https://link.springer.com/chapter/10.1007/978-3-030-15712-8_52) | 📥 [download pdf](https://www.antoniomallia.it/uploads/ECIR19a.pdf)
 - *Efficient and Robust Approximate Nearest Neighbor Search Using Hierarchical Navigable Small World Graphs*<br>
   Yury A. Malkov, Dmitry A. Yashunin<br>
   IEEE Transactions on Pattern Analysis and Machine Intelligence, 2020<br>
-  📄 [paper](https://doi.org/10.1109/TPAMI.2018.2889473) | 📥 [download pdf](https://arxiv.org/pdf/1603.09320)
+  📄 [paper](https://doi.org/10.1109/TPAMI.2018.2889473) | 📥 [download pdf](https://arxiv.org/pdf/1603.09320) 
 - *Wacky Weights in Learned Sparse Representations and the Revenge of Score-at-a-Time Query Evaluation*<br>
   Joel Mackenzie, Andrew Trotman, Jimmy Lin<br>
   CoRR, 2021<br>
@@ -118,7 +106,7 @@ An extensive and commented list of resources on Learned Sparse Retrieval. Most o
 - *Accelerating Learned Sparse Indexes Via Term Impact Decomposition*<br>
   Joel Mackenzie, Antonio Mallia, Alistair Moffat, Matthias Petri<br>
   EMNLP, 2022<br>
-  📄 [paper](https://aclanthology.org/2022.findings-emnlp.205/) | 📥 [download pdf](https://jmmackenzie.io/pdf/mmmp22-emnlp.pdf)
+  📄 [paper](https://aclanthology.org/2022.findings-emnlp.205/) | 📥 [download pdf](https://jmmackenzie.io/pdf/mmmp22-emnlp.pdf) | 🛠️ [code](https://github.com/jmmackenzie/postings-clipping)
 - *An Efficiency Study for SPLADE Models*<br>
   Carlos Lassance, Stephane Clinchant<br>
   SIGIR, 2022<br>
@@ -130,7 +118,7 @@ An extensive and commented list of resources on Learned Sparse Retrieval. Most o
 - *IOQP: A simple Impact-Ordered Query Processor written in Rust*<br>
   Joel Mackenzie, Matthias Petri, Luke Gallagher<br>
   DESIRES, 2022<br>
-  📄 [paper](https://jmmackenzie.io/publication/desires22/) | 📥 [download pdf](https://jmmackenzie.io/pdf/mpg22-desires.pdf)
+  📄 [paper](https://jmmackenzie.io/publication/desires22/) | 📥 [download pdf](https://jmmackenzie.io/pdf/mpg22-desires.pdf)  | 🛠️ [code](https://github.com/jmmackenzie/ioqp) 
 - *A Static Pruning Study on Sparse Neural Retrievers*<br>
   Carlos Lassance, Simon Lupart, Herve Dejean, Stephane Clinchant, Nicola Tonellotto<br>
   SIGIR, 2023<br>
