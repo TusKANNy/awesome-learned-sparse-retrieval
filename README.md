@@ -99,6 +99,10 @@ An extensive and commented list of resources on Learned Sparse Retrieval. Most o
   Yury A. Malkov, Dmitry A. Yashunin<br>
   IEEE Transactions on Pattern Analysis and Machine Intelligence, 2020<br>
   📄 [paper](https://doi.org/10.1109/TPAMI.2018.2889473) | 📥 [download pdf](https://arxiv.org/pdf/1603.09320) 
+- *Efficiency Implications of Term Weighting for Passage Retrieval*<br>
+  Joel Mackenzie, Zhuyun Dai, Luke Gallagher, Jamie Callan<br>
+  SIGIR, 2020<br>
+  📄 [paper](https://dl.acm.org/doi/10.1145/3397271.3401263) | 📥 [download pdf](https://dl.acm.org/doi/pdf/10.1145/3397271.3401263?download=true)
 - *Wacky Weights in Learned Sparse Representations and the Revenge of Score-at-a-Time Query Evaluation*<br>
   Joel Mackenzie, Andrew Trotman, Jimmy Lin<br>
   CoRR, 2021<br>
@@ -183,8 +187,12 @@ An extensive and commented list of resources on Learned Sparse Retrieval. Most o
   Leonardo Delfino, Domenico Erriquez, Silvio Martinico, Franco Maria Nardini, Cosimo Rulli, Rossano Venturini<br>
   ECIR, 2025<br>
   📄 [paper](https://link.springer.com/chapter/10.1007/978-3-031-88717-8_29) | 📥 [download pdf](https://arxiv.org/pdf/2501.06121) | 🛠️ [code](https://github.com/TusKANNy/kannolo)
-## Datasets
+- *Breaking the Curse of Dimensionality: On the Stability of Modern Vector Retrieval*<br>
+  Vihan Lakshman, Blaise Munyampirwa, Julian Shun, Benjamin Coleman<br>
+  CoRR, 2025<br>
+  📄 [paper](https://arxiv.org/abs/2512.12458) | 📥 [download pdf](https://arxiv.org/pdf/2512.12458)
 
+## Datasets
 
 #### `MS MARCO v1`
 - **Documents**: `8,841,823`
