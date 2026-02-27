@@ -134,15 +134,19 @@ An extensive and commented list of resources on Learned Sparse Retrieval. Most o
 - *Efficient Document-at-a-time and Score-at-a-time Query Evaluation for Learned Sparse Representations*<br>
   Joel Mackenzie, Andrew Trotman, Jimmy Lin<br>
   ACM Transactions on Information Systems, 2023<br>
-  📄 [paper](https://dl.acm.org/doi/10.1145/3576922) | 📥 [download pdf](https://dl.acm.org/doi/pdf/10.1145/3576922?download=true)
+  📄 [paper](https://dl.acm.org/doi/10.1145/3576922) | 📥 [download pdf](https://dl.acm.org/doi/pdf/10.1145/3576922?download=true) 
 - *Optimizing Guided Traversal for Fast Learned Sparse Retrieval*<br>
   Yifan Qiao, Yingrui Yang, Haixin Lin, Tao Yang<br>
   WWW, 2023<br>
-  📄 [paper](https://dl.acm.org/doi/10.1145/3543507.3583497) | 📥 [download pdf](https://dl.acm.org/doi/pdf/10.1145/3543507.3583497?download=true)
+  📄 [paper](https://dl.acm.org/doi/10.1145/3543507.3583497) | 📥 [download pdf](https://dl.acm.org/doi/pdf/10.1145/3543507.3583497?download=true)  | 🛠️ [code](https://github.com/Qiaoyf96/2GTI)
 - *Representation Sparsification with Hybrid Thresholding for Fast SPLADE-based Document Retrieval*<br>
   Yifan Qiao, Yingrui Yang, Shanxiu He, Tao Yang<br>
   SIGIR, 2023<br>
-  📄 [paper](https://dl.acm.org/doi/10.1145/3539618.3592051) | 📥 [download pdf](https://dl.acm.org/doi/pdf/10.1145/3539618.3592051?download=true)
+  📄 [paper](https://dl.acm.org/doi/10.1145/3539618.3592051) | 📥 [download pdf](https://dl.acm.org/doi/pdf/10.1145/3539618.3592051?download=true) | 🛠️ [code](https://github.com/Qiaoyf96/HT)
+- *Results of the Big ANN: NeurIPS'23 competition*<br>
+  Harsha Vardhan Simhadri, Martin Aumüller, Amir Ingber, Matthijs Douze, George Williams, Magdalen Dobson Manohar, Dmitry Baranchuk, Edo Liberty, Frank Liu, Ben Landrum, Mazin Karjikar, Laxman Dhulipala, Meng Chen, Yue Chen, Rui Ma, Kai Zhang, Yuzheng Cai, Jiayang Shi, Yizhuo Chen, Weiguo Zheng, Zihao Wan, Jie Yin, Ben Huang<br>
+  CoRR, 2023<br>
+  📄 [paper](https://arxiv.org/abs/2409.17424) | 📥 [download pdf](https://arxiv.org/pdf/2409.17424) | 🛠️ [code](https://big-ann-benchmarks.com/neurips23.html)
 - *Bridging Dense and Sparse Maximum Inner Product Search*<br>
   Sebastian Bruch, Franco Maria Nardini, Amir Ingber, Edo Liberty<br>
   ACM Transactions on Information Systems, 2024<br>
@@ -191,6 +195,14 @@ An extensive and commented list of resources on Learned Sparse Retrieval. Most o
   Vihan Lakshman, Blaise Munyampirwa, Julian Shun, Benjamin Coleman<br>
   CoRR, 2025<br>
   📄 [paper](https://arxiv.org/abs/2512.12458) | 📥 [download pdf](https://arxiv.org/pdf/2512.12458)
+- *Efficiency Optimizations for Superblock-based Sparse Retrieval*<br>
+  Parker Carlson, Wentai Xie, Rohil Shah, Tao Yang<br>
+  CoRR, 2026<br>
+  📄 [paper](https://arxiv.org/abs/2602.02883) | 📥 [download pdf](https://arxiv.org/pdf/2602.02883) 
+- *Forward Index Compression for Learned Sparse Retrieval*<br>
+  Sebastian Bruch, Martino Fontana, Franco Maria Nardini, Cosimo Rulli, Rossano Venturini<br>
+  ECIR, 2026<br>
+  📄 [paper](https://arxiv.org/abs/2602.05445) | 📥 [download pdf](https://arxiv.org/pdf/2602.05445) | 🛠️ [code](https://github.com/TusKANNy/seismic)
 
 ## Datasets
 
