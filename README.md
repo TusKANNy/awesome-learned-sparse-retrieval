@@ -171,6 +171,10 @@ An extensive and commented list of resources on Learned Sparse Retrieval. Most o
   Yifan Qiao, Parker Carlson, Shanxiu He, Yingrui Yang, Tao Yang<br>
   EMNLP, 2024<br>
   📄 [paper](https://aclanthology.org/2024.emnlp-main.1101/) | 📥 [download pdf](https://aclanthology.org/2024.emnlp-main.1101.pdf)
+- *Foundations of Vector Retrieval*<br>
+  Sebastian Bruch<br>
+  Springer, 2024<br>
+  📄 [book](https://arxiv.org/abs/2401.09350) | 📥 [download pdf](https://arxiv.org/pdf/2401.09350)
 - *Dynamic Superblock Pruning for Fast Learned Sparse Retrieval*<br>
   Parker Carlson, Wentai Xie, Shanxiu He, Tao Yang<br>
   SIGIR, 2025<br>
@@ -202,7 +206,7 @@ An extensive and commented list of resources on Learned Sparse Retrieval. Most o
 - *Evaluating the Efficiency and Effectiveness of Learned Sparse Retrieval with the lsr_benchmark<br>
   Maik Fröbe, Ferdinand Schlatt, Cosimo Rulli, Tim Hagen, Jan Heinrich Merker, Gijs Hendriksen, Carlos Lassance, Franco Maria Nardini, Rossano Venturini, Martin Potthast<br>
   ECIR, 2026<br>
-  📄 [paper](https://arxiv.org/abs/2602.05445) | 📥 [download pdf](https://arxiv.org/pdf/2602.05445) | 🛠️ [code](https://github.com/reneuir/lsr-benchmark)
+  📄 [paper]() | 📥 [download pdf](https://downloads.webis.de/publications/papers/froebe_2026a.pdf) | 🛠️ [code](https://github.com/reneuir/lsr-benchmark)
 - *Forward Index Compression for Learned Sparse Retrieval*<br>
   Sebastian Bruch, Martino Fontana, Franco Maria Nardini, Cosimo Rulli, Rossano Venturini<br>
   ECIR, 2026<br>
