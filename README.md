@@ -270,6 +270,15 @@ An extensive and commented list of resources on Learned Sparse Retrieval. Most o
 | `splade-v3` | [link](https://huggingface.co/datasets/tuskanny/quora-sparse) | `40` | `36` | `81.4` |
 
 
+## Resources
 
+### Tutorial
 
-## Libraries
+- [SIGIR 2024](https://lsr-tutorial.github.io/)
+
+### Libraries
+
+- [`lsr-benchmark`](https://github.com/reneuir/lsr-benchmark/)
+
+</details>
+
