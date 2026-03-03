@@ -203,7 +203,7 @@ An extensive and commented list of resources on Learned Sparse Retrieval. Most o
   Parker Carlson, Wentai Xie, Rohil Shah, Tao Yang<br>
   CoRR, 2026<br>
   📄 [paper](https://arxiv.org/abs/2602.02883) | 📥 [download pdf](https://arxiv.org/pdf/2602.02883) 
-- *Evaluating the Efficiency and Effectiveness of Learned Sparse Retrieval with the lsr_benchmark<br>
+- *Evaluating the Efficiency and Effectiveness of Learned Sparse Retrieval with the lsr_benchmark*<br>
   Maik Fröbe, Ferdinand Schlatt, Cosimo Rulli, Tim Hagen, Jan Heinrich Merker, Gijs Hendriksen, Carlos Lassance, Franco Maria Nardini, Rossano Venturini, Martin Potthast<br>
   ECIR, 2026<br>
   📄 [paper]() | 📥 [download pdf](https://downloads.webis.de/publications/papers/froebe_2026a.pdf) | 🛠️ [code](https://github.com/reneuir/lsr-benchmark)
