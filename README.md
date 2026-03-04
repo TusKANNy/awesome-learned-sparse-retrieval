@@ -279,6 +279,8 @@ An extensive and commented list of resources on Learned Sparse Retrieval. Most o
 ### Libraries
 
 - [`lsr-benchmark`](https://github.com/reneuir/lsr-benchmark/)
+- [`kannolo`](https://github.com/TusKANNy/kannolo)
+- [`seismic`](https://github.com/TusKANNy/seismic)
 
 </details>
 
