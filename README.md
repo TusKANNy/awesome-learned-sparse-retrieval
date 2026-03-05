@@ -278,7 +278,7 @@ An extensive and commented list of resources on Learned Sparse Retrieval. Most o
 
 ### Libraries
 
-- [lsr-benchmark](https://github.com/reneuir/lsr-benchmark/) **Python**
+- [lsr-benchmark](https://github.com/reneuir/lsr-benchmark/) **Python**<br>*Framework for the evaluation of the learned sparse retrieval paradigm to contrast efficiency and effectiveness across diverse retrieval scenarios*
 - [kANNolo](https://github.com/TusKANNy/kannolo) **Python and Rust**<br>*Library for fast dense/sparse learned retrieval and indexing with focus on efficient inverted-index structures built on modern research*
 - [Seismic](https://github.com/TusKANNy/seismic) **Python and Rust**<br>*State-of-the-Art library for fast sparse learned retrieval and indexing with focus on efficient inverted-index structures built on modern research*
 - [Vectorium](https://github.com/TusKANNy/vectorium) **Python and Rust**<br>*General-purpose vector and sparse retrieval library designed to support various neural and lexical retrieval backend*
