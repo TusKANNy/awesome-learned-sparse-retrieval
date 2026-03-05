@@ -5,94 +5,94 @@ An extensive and commented list of resources on Learned Sparse Retrieval. Most o
 
 - *From Neural Re-Ranking to Neural Ranking: Learning a Sparse Representation for Inverted Indexing*<br>
   Hamed Zamani, Mostafa Dehghani, W. Bruce Croft, Erik Learned-Miller, Jaap Kamps<br>
-  CIKM, 2018. 📄 [paper](https://dl.acm.org/doi/10.1145/3269206.3271800).
+  CIKM, 2018<br> 📄 [paper](https://dl.acm.org/doi/10.1145/3269206.3271800)
 - *Expansion via Prediction of Importance with Contextualization (EPIC)*<br>
   Sean MacAvaney, Franco Maria Nardini, Raffaele Perego, Nicola Tonellotto, Nazli Goharian, Ophir Frieder<br>
-  SIGIR, 2020. 📄 [paper](https://dl.acm.org/doi/10.1145/3397271.3401262).
+  SIGIR, 2020<br> 📄 [paper](https://dl.acm.org/doi/10.1145/3397271.3401262)
 - *Context-Aware Term Weighting For First Stage Passage Retrieval*<br>
   Zhuyun Dai, Jamie Callan<br>
-  SIGIR, 2020. 📄 [paper](https://dl.acm.org/doi/abs/10.1145/3397271.3401204).
+  SIGIR, 2020<br> 📄 [paper](https://dl.acm.org/doi/abs/10.1145/3397271.3401204)
 - *Learning Passage Impacts for Inverted Indexes*<br>
   Antonio Mallia, Omar Khattab, Torsten Suel, Nicola Tonellotto<br>
-  SIGIR, 2021. 📄 [paper](https://dl.acm.org/doi/10.1145/3404835.3463030).
+  SIGIR, 2021<br> 📄 [paper](https://dl.acm.org/doi/10.1145/3404835.3463030)
 - *SPLADE: Sparse Lexical and Expansion Model for First Stage Ranking*<br>
   Thibault Formal, Benjamin Piwowarski, Stephane Clinchant<br>
-  SIGIR, 2021. 📄 [paper](https://dl.acm.org/doi/10.1145/3404835.3463098).
+  SIGIR, 2021<br> 📄 [paper](https://dl.acm.org/doi/10.1145/3404835.3463098)
 - *SPLADE v2: Sparse Lexical and Expansion Model for Information Retrieval*<br>
   Thibault Formal, Carlos Lassance, Benjamin Piwowarski, Stephane Clinchant<br>
-  CoRR, 2021.  📄 [paper](https://arxiv.org/abs/2109.10086).
+  CoRR, 2021<br> 📄 [paper](https://arxiv.org/abs/2109.10086)
 - *SPARTA: Efficient Open-Domain Question Answering via Sparse Transformer Matching Retrieval*<br>
   Tiancheng Zhao, Xiaopeng Lu, Kyusong Lee<br>
-  NAACL, 2021.  📄 [paper](https://dl.acm.org/doi/10.1145/3404835.3463098).
+  NAACL, 2021<br> 📄 [paper](https://dl.acm.org/doi/10.1145/3404835.3463098)
 - *TILDE: Term Independent Likelihood moDEl for Passage Re-ranking*<br>
   Shengyao Zhuang, Guido Zuccon<br>
-  SIGIR, 2021. 📄 [paper](https://dl.acm.org/doi/10.1145/3404835.3462922).
+  SIGIR, 2021<br> 📄 [paper](https://dl.acm.org/doi/10.1145/3404835.3462922)
 - *From Distillation to Hard Negative Sampling: Making Sparse Neural IR Models More Effective*<br>
   Thibault Formal, Carlos Lassance, Benjamin Piwowarski, Stephane Clinchant<br>
-  SIGIR, 2022. 📄 [paper]().
+  SIGIR, 2022<br> 📄 [paper]()
 - *An Efficiency Study for SPLADE Models*<br>
   Carlos Lassance, Stéphane Clinchant<br>
-  SIGIR, 2022. 📄 [paper](https://dl.acm.org/doi/10.1145/3477495.3531833).
+  SIGIR, 2022<br> 📄 [paper](https://dl.acm.org/doi/10.1145/3477495.3531833)
 - *Learning a Sparse Representation Model for Neural CLIR*<br>
   Suraj Nair, Eugene Yang, Dawn J Lawrie, James Mayfield, Douglas W. Oard<br>
-  DESIRES, 2022. 📄 [paper]().
+  DESIRES, 2022<br> 📄 [paper]()
 - *LexMAE: Lexicon-Bottlenecked Pretraining for Large-Scale Retrieval*<br>
   Tao Shen, Xiubo Geng, Chongyang Tao, Can Xu, Xiaolong Huang, Binxing Jiao, Linjun Yang, Daxin Jiang<br>
-  ICLR, 2023. 📄 [paper]().
+  ICLR, 2023<br> 📄 [paper]()
 - *A Unified Framework for Learned Sparse Retrieval*<br>
   Thong Nguyen, Sean MacAvaney, Andrew Yates<br>
-  ECIR, 2023. 📄 [paper]().
+  ECIR, 2023<br> 📄 [paper]()
 - *BLADE: Combining Vocabulary Pruning and Intermediate Pretraining for Scaleable Neural CLIR*<br>
   Suraj Nair, Eugene Yang, Dawn Lawrie, James Mayfield, Douglas W. Oard<br>
-  SIGIR, 2023. 📄 [paper]().
+  SIGIR, 2023<br> 📄 [paper]()
 - *Learning Sparse Lexical Representations Over Specified Vocabularies for Retrieval*<br>
   Jeffrey M Dudek, Weize Kong, Cheng Li, Mingyang Zhang, Michael Bendersky<br>
-  CIKM, 2023. 📄 [paper]().
+  CIKM, 2023<br> 📄 [paper]()
 - *Improved Learned Sparse Retrieval with Corpus-Specific Vocabularies*<br>
   Puxuan Yu, Antonio Mallia, Matthias Petri<br>
-  ECIR, 2024. 📄 [paper]().
+  ECIR, 2024<br> 📄 [paper]()
 - *Two-Step SPLADE: Simple, Efficient and Effective Approximation of SPLADE*<br>
   Carlos Lassance, Hervé Déjean, Stephane Clinchant, Nicola Tonellotto<br>
-  ECIR, 2024. 📄 [paper]().
+  ECIR, 2024<br> 📄 [paper]()
 - *SPLATE: Sparse Late Interaction Retrieval*<br>
   Thibault Formal, Stephane Clinchant, Hervé Déjean, Carlos Lassance<br>
-  SIGIR, 2024. 📄 [paper]().
+  SIGIR, 2024<br> 📄 [paper]()
 - *Multimodal Learned Sparse Retrieval with Probabilistic Expansion Control*<br>
   Thong Nguyen, Mariya Hendriksen, Andrew Yates, Maarten de Rijke<br>
-  ECIR, 2024. 📄 [paper]().
+  ECIR, 2024<br> 📄 [paper]()
 - *DyVo: Dynamic Vocabularies for Learned Sparse Retrieval with Entities*<br>
   Thong Nguyen, Shubham Chatterjee, Sean MacAvaney, Iain Mackie, Jeff Dalton, Andrew Yates<br>
-  EMNLP, 2024. 📄 [paper]().
+  EMNLP, 2024<br> 📄 [paper]()
 - *SPLADE-v3: New baselines for SPLADE*<br>
   Carlos Lassance, Hervé Déjean, Thibault Formal, Stephane Clinchant<br>
-  CoRR, 2024. 📄 [paper]().
+  CoRR, 2024<br> 📄 [paper]()
 - *Towards Competitive Search Relevance For Inference-Free Learned Sparse Retrievers*<br>
   Zhichao Geng, Dongyu Ru, Yang Yang<br>
-  CoRR, 2024. 📄 [paper]().
+  CoRR, 2024<br> 📄 [paper]()
 - *An Alternative to FLOPS Regularization to Effectively Productionize SPLADE-doc*<br>
   Aldo Porco, Dhruv Mehra, Igor Malioutov, Karthik Radhakrishnan, Moniba Keymanesh, Daniel Preotiuc-Pietro, Sean MacAvaney, Pengxiang Cheng<br>
-  SIGIR, 2025. 📄 [paper]().
+  SIGIR, 2025<br> 📄 [paper]()
 - *Effective Inference-Free Retrieval for Learned Sparse Representations*<br>
   Franco Maria Nardini, Thong Nguyen, Cosimo Rulli, Rossano Venturini, Andrew Yates<br>
-  SIGIR, 2025. 📄 [paper]().
+  SIGIR, 2025<br> 📄 [paper]()
 - *Enhancing Lexicon-Based Text Embeddings with Large Language Models*<br>
   Yibin Lei, Tao Shen, Yu Cao, Andrew Yates<br>
-  ACL, 2025. 📄 [paper]().
+  ACL, 2025<br> 📄 [paper]()
 - *Leveraging decoder architectures for learned sparse retrieval*<br>
   Jingfen Qiao, Thong Nguyen, Evangelos Kanoulas, Andrew Yates<br>
-  International Workshop on Knowledge-Enhanced Information Retrieval, 2025. 📄 [paper]().
+  International Workshop on Knowledge-Enhanced Information Retrieval, 2025<br> 📄 [paper]()
 - *Scaling sparse and dense retrieval in decoder-only LLMs*<br>
   Hansi Zeng, Julian Killingback, Hamed Zamani<br>
-  SIGIR, 2025. 📄 [paper]().
+  SIGIR, 2025<br> 📄 [paper]()
 - *CSPLADE: Learned Sparse Retrieval with Causal Language Models*<br>
   Zhichao Xu, Aosong Feng, Yijun Tian, Haibo Ding, Lin Lee Cheong<br>
-  CoRR, 2025. 📄 [paper]().
+  CoRR, 2025<br> 📄 [paper]()
 - *On the Reproducibility of Learned Sparse Retrieval Adaptations for Long Documents*<br>
   Emmanouil Georgios Lionis, Jia-Huei Ju<br>
-  ECIR, 2025. 📄 [paper]().
+  ECIR, 2025<br> 📄 [paper]()
 - *Learning Retrieval Models with Sparse Autoencoders*<br>
   Thibault Formal, Maxime Louis, Hervé Déjean, Stéphane Clinchant<br>
-  ICLR, 2025. 📄 [paper](https://openreview.net/forum?id=TuFjICawSc).
+  ICLR, 2025<br> 📄 [paper](https://openreview.net/forum?id=TuFjICawSc)
 
 ## Indexing
 - *Efficient and Robust Approximate Nearest Neighbor Search Using Hierarchical Navigable Small World Graphs*<br>
