@@ -272,15 +272,18 @@ An extensive and commented list of resources on Learned Sparse Retrieval. Most o
 
 ## Resources
 
-### Tutorial
+### Tutorials
 
 - [SIGIR 2024](https://lsr-tutorial.github.io/)
 
 ### Libraries
 
 - [`lsr-benchmark`](https://github.com/reneuir/lsr-benchmark/)
-- [`kannolo`](https://github.com/TusKANNy/kannolo)
-- [`seismic`](https://github.com/TusKANNy/seismic)
+- [`kANNolo`](https://github.com/TusKANNy/kannolo)
+- [`Seismic`](https://github.com/TusKANNy/seismic)
+- [`vectorium`](https://github.com/TusKANNy/vectorium)
+- [`Sentence Transformer`](https://sbert.net/)
+- 
 
 </details>
 
