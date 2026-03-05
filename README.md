@@ -212,7 +212,26 @@ An extensive and commented list of resources on Learned Sparse Retrieval. Most o
   ECIR, 2026<br>
   📄 [paper](https://arxiv.org/abs/2602.05445) | 📥 [download pdf](https://arxiv.org/pdf/2602.05445) | 🛠️ [code](https://github.com/TusKANNy/seismic)
 
-## Datasets
+## Resources
+
+### Libraries
+
+- [lsr-benchmark](https://github.com/reneuir/lsr-benchmark/) <img src="images/python-logo.svg" height="16" alt="Python"/><br>*Framework for the evaluation of the learned sparse retrieval paradigm to contrast efficiency and effectiveness across diverse retrieval scenarios*
+- [kANNolo](https://github.com/TusKANNy/kannolo) <img src="images/python-logo.svg" height="16" alt="Python"/> <img src="images/rust-logo.svg" height="20" alt="Rust"/><br>*Library for fast dense/sparse learned retrieval and indexing with focus on efficient inverted-index structures built on modern research*
+- [Seismic](https://github.com/TusKANNy/seismic) <img src="images/python-logo.svg" height="16" alt="Python"/> <img src="images/rust-logo.svg" height="20" alt="Rust"/><br>*State-of-the-Art library for fast sparse learned retrieval and indexing with focus on efficient inverted-index structures built on modern research*
+- [Vectorium](https://github.com/TusKANNy/vectorium) <img src="images/python-logo.svg" height="16" alt="Python"/> <img src="images/rust-logo.svg" height="20" alt="Rust"/><br>*General-purpose vector and sparse retrieval library designed to support various neural and lexical retrieval backend*
+- [Sentence Transformer](https://sbert.net/) <img src="images/python-logo.svg" height="16" alt="Python"/> <img src="images/rust-logo.svg" height="20" alt="Rust"/><br>*Framework for generating sentence embeddings and sparse encoders for semantic and sparse retrieval in NLP applications*
+- [Pyserini](https://github.com/castorini/pyserini) <img src="images/python-logo.svg" height="16" alt="Python"/><br>*IR research toolkit built on Lucene that supports learned sparse retrieval models such as uniCOIL, DeepImpact, and SPLADE.*
+- [OpenSearch](https://opensearch.org/) <img src="images/python-logo.svg" height="16" alt="Python"/> <img src="images/java-logo.png" height="20" alt="Java"/><br>*Open-source search and analytics engine that supports scalable sparse, dense, and hybrid neural retrieval via plugins and vector extensions.*
+- [Apache Lucene](https://lucene.apache.org/) <img src="images/python-logo.svg" height="16" alt="Python"/> <img src="images/java-logo.png" height="20" alt="Java"/><br>*High-performance Java search library providing inverted indexes and scoring infrastructure that underpins many learned sparse retrieval systems.*
+- [Qdrant](https://qdrant.tech/) <img src="images/python-logo.svg" height="16" alt="Python"/> <img src="images/rust-logo.svg" height="20" alt="Rust"/><br>*Open-source vector database supporting dense, sparse, and hybrid retrieval with native sparse vector indexing based on an inverted index for exact high-dimensional sparse search.*
+
+
+### Tutorials
+
+- [SIGIR 2024](https://lsr-tutorial.github.io/)
+
+### Datasets
 
 #### `MS MARCO v1`
 - **Documents**: `8,841,823`
@@ -269,21 +288,3 @@ An extensive and commented list of resources on Learned Sparse Retrieval. Most o
 |---|---|---:|---:|---:|
 | `splade-v3` | [link](https://huggingface.co/datasets/tuskanny/quora-sparse) | `40` | `36` | `81.4` |
 
-
-## Resources
-
-### Tutorials
-
-- [SIGIR 2024](https://lsr-tutorial.github.io/)
-
-### Libraries
-
-- [lsr-benchmark](https://github.com/reneuir/lsr-benchmark/) <img src="images/python-logo.svg" height="16" alt="Python"/><br>*Framework for the evaluation of the learned sparse retrieval paradigm to contrast efficiency and effectiveness across diverse retrieval scenarios*
-- [kANNolo](https://github.com/TusKANNy/kannolo) <img src="images/python-logo.svg" height="16" alt="Python"/> <img src="images/rust-logo.svg" height="20" alt="Rust"/><br>*Library for fast dense/sparse learned retrieval and indexing with focus on efficient inverted-index structures built on modern research*
-- [Seismic](https://github.com/TusKANNy/seismic) <img src="images/python-logo.svg" height="16" alt="Python"/> <img src="images/rust-logo.svg" height="20" alt="Rust"/><br>*State-of-the-Art library for fast sparse learned retrieval and indexing with focus on efficient inverted-index structures built on modern research*
-- [Vectorium](https://github.com/TusKANNy/vectorium) <img src="images/python-logo.svg" height="16" alt="Python"/> <img src="images/rust-logo.svg" height="20" alt="Rust"/><br>*General-purpose vector and sparse retrieval library designed to support various neural and lexical retrieval backend*
-- [Sentence Transformer](https://sbert.net/) <img src="images/python-logo.svg" height="16" alt="Python"/> <img src="images/rust-logo.svg" height="20" alt="Rust"/><br>*Framework for generating sentence embeddings and sparse encoders for semantic and sparse retrieval in NLP applications*
-- [Pyserini](https://github.com/castorini/pyserini) <img src="images/python-logo.svg" height="16" alt="Python"/><br>*IR research toolkit built on Lucene that supports learned sparse retrieval models such as uniCOIL, DeepImpact, and SPLADE.*
-- [OpenSearch](https://opensearch.org/) <img src="images/python-logo.svg" height="16" alt="Python"/> <img src="images/java-logo.png" height="20" alt="Java"/><br>*Open-source search and analytics engine that supports scalable sparse, dense, and hybrid neural retrieval via plugins and vector extensions.*
-- [Apache Lucene](https://lucene.apache.org/) <img src="images/python-logo.svg" height="16" alt="Python"/> <img src="images/java-logo.png" height="20" alt="Java"/><br>*High-performance Java search library providing inverted indexes and scoring infrastructure that underpins many learned sparse retrieval systems.*
-- [Qdrant](https://qdrant.tech/) <img src="images/python-logo.svg" height="16" alt="Python"/> <img src="images/rust-logo.svg" height="20" alt="Rust"/><br>*Open-source vector database supporting dense, sparse, and hybrid retrieval with native sparse vector indexing based on an inverted index for exact high-dimensional sparse search.*
