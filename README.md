@@ -278,12 +278,9 @@ An extensive and commented list of resources on Learned Sparse Retrieval. Most o
 
 ### Libraries
 
-- [`lsr-benchmark`](https://github.com/reneuir/lsr-benchmark/)
-- [`kANNolo`](https://github.com/TusKANNy/kannolo)
-- [`Seismic`](https://github.com/TusKANNy/seismic)
-- [`vectorium`](https://github.com/TusKANNy/vectorium)
-- [`Sentence Transformer`](https://sbert.net/)
-- 
-
-</details>
+- [lsr-benchmark](https://github.com/reneuir/lsr-benchmark/)
+- [kANNolo](https://github.com/TusKANNy/kannolo)<br>*Library for fast dense/sparse learned retrieval and indexing with focus on efficient inverted-index structures built on modern research<br>Python and Rust
+- [Seismic](https://github.com/TusKANNy/seismic)<br>*Rust library for fast sparse learned retrieval and indexing with focus on efficient inverted-index structures built on modern research*<br>Python and Rust
+- [Vectorium](https://github.com/TusKANNy/vectorium)<br>*General-purpose vector and sparse retrieval library designed to support various neural and lexical retrieval backend*<br>Python and Rust
+- [Sentence Transformer](https://sbert.net/)<br>*Python framework for generating sentence embeddings and sparse encoders for semantic and sparse retrieval in NLP applications*<br>Python
 
