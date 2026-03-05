@@ -283,4 +283,4 @@ An extensive and commented list of resources on Learned Sparse Retrieval. Most o
 - [Seismic](https://github.com/TusKANNy/seismic) **Python and Rust**<br>*State-of-the-Art library for fast sparse learned retrieval and indexing with focus on efficient inverted-index structures built on modern research*
 - [Vectorium](https://github.com/TusKANNy/vectorium) **Python and Rust**<br>*General-purpose vector and sparse retrieval library designed to support various neural and lexical retrieval backend*
 - [Sentence Transformer](https://sbert.net/) **Python and Rust**<br>*Framework for generating sentence embeddings and sparse encoders for semantic and sparse retrieval in NLP applications*<br>Python
-
+- [Pyserini](https://github.com/castorini/pyserini) **Python**<br>*IR research toolkit built on Lucene that supports learned sparse retrieval models such as uniCOIL, DeepImpact, and SPLADE.*
