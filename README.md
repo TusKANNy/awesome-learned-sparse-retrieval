@@ -278,9 +278,9 @@ An extensive and commented list of resources on Learned Sparse Retrieval. Most o
 
 ### Libraries
 
-- [lsr-benchmark](https://github.com/reneuir/lsr-benchmark/) **Python**<br>*Framework for the evaluation of the learned sparse retrieval paradigm to contrast efficiency and effectiveness across diverse retrieval scenarios*
-- [kANNolo](https://github.com/TusKANNy/kannolo) **Python and Rust**<br>*Library for fast dense/sparse learned retrieval and indexing with focus on efficient inverted-index structures built on modern research*
-- [Seismic](https://github.com/TusKANNy/seismic) **Python and Rust**<br>*State-of-the-Art library for fast sparse learned retrieval and indexing with focus on efficient inverted-index structures built on modern research*
-- [Vectorium](https://github.com/TusKANNy/vectorium) **Python and Rust**<br>*General-purpose vector and sparse retrieval library designed to support various neural and lexical retrieval backend*
-- [Sentence Transformer](https://sbert.net/) **Python and Rust**<br>*Framework for generating sentence embeddings and sparse encoders for semantic and sparse retrieval in NLP applications*<br>Python
-- [Pyserini](https://github.com/castorini/pyserini) **Python**<br>*IR research toolkit built on Lucene that supports learned sparse retrieval models such as uniCOIL, DeepImpact, and SPLADE.*
+- [lsr-benchmark](https://github.com/reneuir/lsr-benchmark/) <img src="images/python-logo.svg" height="16" alt="Python"/><br>*Framework for the evaluation of the learned sparse retrieval paradigm to contrast efficiency and effectiveness across diverse retrieval scenarios*
+- [kANNolo](https://github.com/TusKANNy/kannolo) <img src="images/python-logo.svg" height="16" alt="Python"/> <img src="images/rust-logo.svg" height="16" alt="Rust"/><br>*Library for fast dense/sparse learned retrieval and indexing with focus on efficient inverted-index structures built on modern research*
+- [Seismic](https://github.com/TusKANNy/seismic) <img src="images/python-logo.svg" height="16" alt="Python"/> <img src="images/rust-logo.svg" height="16" alt="Rust"/><br>*State-of-the-Art library for fast sparse learned retrieval and indexing with focus on efficient inverted-index structures built on modern research*
+- [Vectorium](https://github.com/TusKANNy/vectorium) <img src="images/python-logo.svg" height="16" alt="Python"/> <img src="images/rust-logo.svg" height="16" alt="Rust"/><br>*General-purpose vector and sparse retrieval library designed to support various neural and lexical retrieval backend*
+- [Sentence Transformer](https://sbert.net/) <img src="images/python-logo.svg" height="16" alt="Python"/> <img src="images/rust-logo.svg" height="16" alt="Rust"/><br>*Framework for generating sentence embeddings and sparse encoders for semantic and sparse retrieval in NLP applications*
+- [Pyserini](https://github.com/castorini/pyserini) <img src="images/python-logo.svg" height="16" alt="Python"/><br>*IR research toolkit built on Lucene that supports learned sparse retrieval models such as uniCOIL, DeepImpact, and SPLADE.*
