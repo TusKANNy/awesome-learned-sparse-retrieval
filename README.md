@@ -74,6 +74,9 @@ An extensive and commented list of resources on Learned Sparse Retrieval. Most o
 - *Effective Inference-Free Retrieval for Learned Sparse Representations*<br>
   Franco Maria Nardini, Thong Nguyen, Cosimo Rulli, Rossano Venturini, Andrew Yates<br>
   SIGIR, 2025<br> 📄 [paper](https://dl.acm.org/doi/10.1145/3726302.3730185)
+- *Exploring $\ell_0$ Sparsification for Inference-free Sparse Retrievers*<br>
+  Xinjie Shen, Zhichao Geng, Yang Yang<br>
+  SIGIR, 2025<br> 📄 [paper](https://dl.acm.org/doi/10.1145/3726302.3730192)
 - *Enhancing Lexicon-Based Text Embeddings with Large Language Models*<br>
   Yibin Lei, Tao Shen, Yu Cao, Andrew Yates<br>
   ACL, 2025<br> 📄 [paper](https://aclanthology.org/2025.acl-long.930)
