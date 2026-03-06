@@ -211,6 +211,9 @@ An extensive and commented list of resources on Learned Sparse Retrieval. Most o
   ECIR, 2026<br>
   📄 [paper](https://arxiv.org/abs/2602.05445) | 📥 [download pdf](https://arxiv.org/pdf/2602.05445) | 🛠️ [code](https://github.com/TusKANNy/seismic)
 
+### Tutorials
+- [SIGIR 2024](https://lsr-tutorial.github.io/)
+
 ### Libraries
 - [lsr-benchmark](https://github.com/reneuir/lsr-benchmark/) <img src="images/python-logo.svg" height="16" alt="Python"/><br>*Framework for the evaluation of the learned sparse retrieval paradigm to contrast efficiency and effectiveness across diverse retrieval scenarios*
 - [kANNolo](https://github.com/TusKANNy/kannolo) <img src="images/python-logo.svg" height="16" alt="Python"/> <img src="images/rust-logo.svg" height="22" alt="Rust"/><br>*Library for fast dense/sparse learned retrieval and indexing with focus on efficient inverted-index structures built on modern research*
@@ -223,9 +226,6 @@ An extensive and commented list of resources on Learned Sparse Retrieval. Most o
 - [Apache Lucene](https://lucene.apache.org/) <img src="images/python-logo.svg" height="16" alt="Python"/> <img src="images/java-logo.png" height="24" alt="Java"/><br>*High-performance Java search library providing inverted indexes and scoring infrastructure that underpins many learned sparse retrieval systems.*
 - [Qdrant](https://qdrant.tech/) <img src="images/python-logo.svg" height="16" alt="Python"/> <img src="images/rust-logo.svg" height="22" alt="Rust"/><br>*Open-source vector database supporting dense, sparse, and hybrid retrieval with native sparse vector indexing based on an inverted index for exact high-dimensional sparse search.*
 - [FlashRAG](https://github.com/RUC-NLPIR/FlashRAG) <img src="images/python-logo.svg" height="16" alt="Python"/><br>*A Python Toolkit for Efficient RAG Research.*
-
-### Tutorials
-- [SIGIR 2024](https://lsr-tutorial.github.io/)
 
 ### Datasets and Encodings
 
