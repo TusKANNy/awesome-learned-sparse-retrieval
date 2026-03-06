@@ -97,119 +97,119 @@ An extensive and commented list of resources on Learned Sparse Retrieval. Most o
 - *Efficient and Robust Approximate Nearest Neighbor Search Using Hierarchical Navigable Small World Graphs*<br>
   Yury A. Malkov, Dmitry A. Yashunin<br>
   IEEE Transactions on Pattern Analysis and Machine Intelligence, 2020<br>
-  📄 [paper](https://doi.org/10.1109/TPAMI.2018.2889473) | 📥 [download pdf](https://arxiv.org/pdf/1603.09320) 
+  📄 [paper](https://doi.org/10.1109/TPAMI.2018.2889473)
 - *Efficiency Implications of Term Weighting for Passage Retrieval*<br>
   Joel Mackenzie, Zhuyun Dai, Luke Gallagher, Jamie Callan<br>
   SIGIR, 2020<br>
-  📄 [paper](https://dl.acm.org/doi/10.1145/3397271.3401263) | 📥 [download pdf](https://dl.acm.org/doi/pdf/10.1145/3397271.3401263?download=true)
+  📄 [paper](https://dl.acm.org/doi/10.1145/3397271.3401263)
 - *Wacky Weights in Learned Sparse Representations and the Revenge of Score-at-a-Time Query Evaluation*<br>
   Joel Mackenzie, Andrew Trotman, Jimmy Lin<br>
   CoRR, 2021<br>
-  📄 [paper](https://doi.org/10.48550/arXiv.2110.11540) | 📥 [download pdf](https://arxiv.org/pdf/2110.11540)
+  📄 [paper](https://doi.org/10.48550/arXiv.2110.11540)
 - *Accelerating Learned Sparse Indexes Via Term Impact Decomposition*<br>
   Joel Mackenzie, Antonio Mallia, Alistair Moffat, Matthias Petri<br>
   EMNLP, 2022<br>
-  📄 [paper](https://aclanthology.org/2022.findings-emnlp.205/) | 📥 [download pdf](https://jmmackenzie.io/pdf/mmmp22-emnlp.pdf) | 🛠️ [code](https://github.com/jmmackenzie/postings-clipping)
+  📄 [paper](https://aclanthology.org/2022.findings-emnlp.205/) | 🛠️ [code](https://github.com/jmmackenzie/postings-clipping)
 - *An Efficiency Study for SPLADE Models*<br>
   Carlos Lassance, Stephane Clinchant<br>
   SIGIR, 2022<br>
-  📄 [paper](https://dl.acm.org/doi/10.1145/3477495.3531833) | 📥 [download pdf](https://arxiv.org/pdf/2207.03834)
+  📄 [paper](https://dl.acm.org/doi/10.1145/3477495.3531833)
 - *Faster Learned Sparse Retrieval with Guided Traversal*<br>
   Antonio Mallia, Joel Mackenzie, Torsten Suel, Nicola Tonellotto<br>
   SIGIR, 2022<br>
-  📄 [paper](https://dl.acm.org/doi/10.1145/3477495.3531774) | 📥 [download pdf](https://arxiv.org/pdf/2204.11314)
+  📄 [paper](https://dl.acm.org/doi/10.1145/3477495.3531774)
 - *IOQP: A simple Impact-Ordered Query Processor written in Rust*<br>
   Joel Mackenzie, Matthias Petri, Luke Gallagher<br>
   DESIRES, 2022<br>
-  📄 [paper](https://jmmackenzie.io/publication/desires22/) | 📥 [download pdf](https://jmmackenzie.io/pdf/mpg22-desires.pdf)  | 🛠️ [code](https://github.com/jmmackenzie/ioqp) 
+  📄 [paper](https://jmmackenzie.io/publication/desires22/) | 🛠️ [code](https://github.com/jmmackenzie/ioqp)
 - *A Static Pruning Study on Sparse Neural Retrievers*<br>
   Carlos Lassance, Simon Lupart, Herve Dejean, Stephane Clinchant, Nicola Tonellotto<br>
   SIGIR, 2023<br>
-  📄 [paper](https://dl.acm.org/doi/10.1145/3539618.3591941) | 📥 [download pdf](https://arxiv.org/pdf/2304.12702)
+  📄 [paper](https://dl.acm.org/doi/10.1145/3539618.3591941)
 - *An Approximate Algorithm for Maximum Inner Product Search over Streaming Sparse Vectors*<br>
   Sebastian Bruch, Franco Maria Nardini, Amir Ingber, Edo Liberty<br>
   ACM Transactions on Information Systems, 2024<br>
-  📄 [paper](https://dl.acm.org/doi/10.1145/3609797) | 📥 [download pdf](https://arxiv.org/pdf/2301.10622)
+  📄 [paper](https://dl.acm.org/doi/10.1145/3609797)
 - *Efficient Document-at-a-time and Score-at-a-time Query Evaluation for Learned Sparse Representations*<br>
   Joel Mackenzie, Andrew Trotman, Jimmy Lin<br>
   ACM Transactions on Information Systems, 2023<br>
-  📄 [paper](https://dl.acm.org/doi/10.1145/3576922) | 📥 [download pdf](https://dl.acm.org/doi/pdf/10.1145/3576922?download=true) 
+  📄 [paper](https://dl.acm.org/doi/10.1145/3576922)
 - *Optimizing Guided Traversal for Fast Learned Sparse Retrieval*<br>
   Yifan Qiao, Yingrui Yang, Haixin Lin, Tao Yang<br>
   WWW, 2023<br>
-  📄 [paper](https://dl.acm.org/doi/10.1145/3543507.3583497) | 📥 [download pdf](https://dl.acm.org/doi/pdf/10.1145/3543507.3583497?download=true)  | 🛠️ [code](https://github.com/Qiaoyf96/2GTI)
+  📄 [paper](https://dl.acm.org/doi/10.1145/3543507.3583497) | 🛠️ [code](https://github.com/Qiaoyf96/2GTI)
 - *Representation Sparsification with Hybrid Thresholding for Fast SPLADE-based Document Retrieval*<br>
   Yifan Qiao, Yingrui Yang, Shanxiu He, Tao Yang<br>
   SIGIR, 2023<br>
-  📄 [paper](https://dl.acm.org/doi/10.1145/3539618.3592051) | 📥 [download pdf](https://dl.acm.org/doi/pdf/10.1145/3539618.3592051?download=true) | 🛠️ [code](https://github.com/Qiaoyf96/HT)
+  📄 [paper](https://dl.acm.org/doi/10.1145/3539618.3592051) | 🛠️ [code](https://github.com/Qiaoyf96/HT)
 - *Results of the Big ANN: NeurIPS'23 competition*<br>
   Harsha Vardhan Simhadri, Martin Aumüller, Amir Ingber, Matthijs Douze, George Williams, Magdalen Dobson Manohar, Dmitry Baranchuk, Edo Liberty, Frank Liu, Ben Landrum, Mazin Karjikar, Laxman Dhulipala, Meng Chen, Yue Chen, Rui Ma, Kai Zhang, Yuzheng Cai, Jiayang Shi, Yizhuo Chen, Weiguo Zheng, Zihao Wan, Jie Yin, Ben Huang<br>
   CoRR, 2023<br>
-  📄 [paper](https://arxiv.org/abs/2409.17424) | 📥 [download pdf](https://arxiv.org/pdf/2409.17424) | 🛠️ [code](https://big-ann-benchmarks.com/neurips23.html)
+  📄 [paper](https://arxiv.org/abs/2409.17424) | 🛠️ [code](https://big-ann-benchmarks.com/neurips23.html)
 - *Bridging Dense and Sparse Maximum Inner Product Search*<br>
   Sebastian Bruch, Franco Maria Nardini, Amir Ingber, Edo Liberty<br>
   ACM Transactions on Information Systems, 2024<br>
-  📄 [paper](https://dl.acm.org/doi/full/10.1145/3665324) | 📥 [download pdf](https://dl.acm.org/doi/pdf/10.1145/3665324?download=true)
+  📄 [paper](https://dl.acm.org/doi/full/10.1145/3665324)
 - *Efficient Inverted Indexes for Approximate Retrieval over Learned Sparse Representations*<br>
   Sebastian Bruch, Franco Maria Nardini, Cosimo Rulli, Rossano Venturini<br>
   SIGIR, 2024<br>
-  📄 [paper](https://dl.acm.org/doi/10.1145/3626772.3657769) | 📥 [download pdf](https://arxiv.org/pdf/2404.18812) | 🛠️ [code](https://github.com/TusKANNy/seismic)
+  📄 [paper](https://dl.acm.org/doi/10.1145/3626772.3657769) | 🛠️ [code](https://github.com/TusKANNy/seismic)
 - *Faster Learned Sparse Retrieval with Block-Max Pruning*<br>
   Antonio Mallia, Torsten Suel, Nicola Tonellotto<br>
   SIGIR, 2024<br>
-  📄 [paper](https://dl.acm.org/doi/10.1145/3626772.3657906) | 📥 [download pdf](https://arxiv.org/pdf/2405.01117) | 🛠️ [code](https://github.com/pisa-engine/BMP)
+  📄 [paper](https://dl.acm.org/doi/10.1145/3626772.3657906) | 🛠️ [code](https://github.com/pisa-engine/BMP)
 - *Cluster-based Partial Dense Retrieval Fused with Sparse Text Retrieval*<br>
   Yingrui Yang, Parker Carlson, Shanxiu He, Yifan Qiao, Tao Yang<br>
   SIGIR, 2024<br>
-  📄 [paper](https://doi.org/10.1145/3626772.3657972) | 📥 [download pdf](https://sites.cs.ucsb.edu/~tyang/papers/sigir24.pdf)
+  📄 [paper](https://doi.org/10.1145/3626772.3657972)
 - *Pairing Clustered Inverted Indexes with κ-NN Graphs for Fast Approximate Retrieval over Learned Sparse Representations*<br>
   Sebastian Bruch, Franco Maria Nardini, Cosimo Rulli, Rossano Venturini<br>
   CIKM, 2024<br>
-  📄 [paper](https://dl.acm.org/doi/10.1145/3627673.3679977) | 📥 [download pdf](https://arxiv.org/pdf/2408.04443) | 🛠️ [code](https://github.com/TusKANNy/seismic)
+  📄 [paper](https://dl.acm.org/doi/10.1145/3627673.3679977) | 🛠️ [code](https://github.com/TusKANNy/seismic)
 - *Threshold-driven Pruning with Segmented Maximum Term Weights for Approximate Cluster-based Sparse Retrieval*<br>
   Yifan Qiao, Parker Carlson, Shanxiu He, Yingrui Yang, Tao Yang<br>
   EMNLP, 2024<br>
-  📄 [paper](https://aclanthology.org/2024.emnlp-main.1101/) | 📥 [download pdf](https://aclanthology.org/2024.emnlp-main.1101.pdf)
+  📄 [paper](https://aclanthology.org/2024.emnlp-main.1101/)
 - *Foundations of Vector Retrieval*<br>
   Sebastian Bruch<br>
   Springer, 2024<br>
-  📄 [book](https://arxiv.org/abs/2401.09350) | 📥 [download pdf](https://arxiv.org/pdf/2401.09350)
+  📄 [book](https://arxiv.org/abs/2401.09350)
 - *Dynamic Superblock Pruning for Fast Learned Sparse Retrieval*<br>
   Parker Carlson, Wentai Xie, Shanxiu He, Tao Yang<br>
   SIGIR, 2025<br>
-  📄 [paper](https://dl.acm.org/doi/10.1145/3726302.3730183) | 📥 [download pdf](https://dl.acm.org/doi/pdf/10.1145/3726302.3730183?download=true)
+  📄 [paper](https://dl.acm.org/doi/10.1145/3726302.3730183)
 - *Efficient Sketching and Nearest Neighbor Search Algorithms for Sparse Vector Sets*<br>
   Sebastian Bruch, Franco Maria Nardini, Cosimo Rulli, Rossano Venturini<br>
   CoRR, 2025<br>
-  📄 [paper](https://doi.org/10.48550/arXiv.2509.24815) | 📥 [download pdf](https://arxiv.org/pdf/2509.24815) | 🛠️ [code](https://github.com/TusKANNy/seismic)
+  📄 [paper](https://doi.org/10.48550/arXiv.2509.24815) | 🛠️ [code](https://github.com/TusKANNy/seismic)
 - *Investigating the Scalability of Approximate Sparse Retrieval Algorithms to Massive Datasets*<br>
   Sebastian Bruch, Franco Maria Nardini, Cosimo Rulli, Rossano Venturini, Leonardo Venuta<br>
   ECIR, 2025<br>
-  📄 [paper](https://link.springer.com/chapter/10.1007/978-3-031-88714-7_43) | 📥 [download pdf](https://arxiv.org/pdf/2501.11628) | 🛠️ [code](https://github.com/TusKANNy/seismic)
+  📄 [paper](https://link.springer.com/chapter/10.1007/978-3-031-88714-7_43) | 🛠️ [code](https://github.com/TusKANNy/seismic)
 - *SINDI: an Efficient Index for Approximate Maximum Inner Product Search on Sparse Vectors*<br>
   Ruoxuan Li, Xiaoyao Zhong, Jiabao Jin, Peng Cheng, Wangze Ni, Lei Chen, Zhitao Shen, Wei Jia, Xiangyu Wang, Xuemin Lin, Heng Tao Shen, Jingkuan Song<br>
   CoRR, 2025<br>
-  📄 [paper](https://doi.org/10.48550/arXiv.2509.08395) | 📥 [download pdf](https://arxiv.org/pdf/2509.08395) | 🛠️ [code](https://github.com/Roxanne0321/vsag/tree/sparse)
+  📄 [paper](https://doi.org/10.48550/arXiv.2509.08395) | 🛠️ [code](https://github.com/Roxanne0321/vsag/tree/sparse)
 - *kANNolo: Sweet and Smooth Approximate k-Nearest Neighbors Search*<br>
   Leonardo Delfino, Domenico Erriquez, Silvio Martinico, Franco Maria Nardini, Cosimo Rulli, Rossano Venturini<br>
   ECIR, 2025<br>
-  📄 [paper](https://link.springer.com/chapter/10.1007/978-3-031-88717-8_29) | 📥 [download pdf](https://arxiv.org/pdf/2501.06121) | 🛠️ [code](https://github.com/TusKANNy/kannolo)
+  📄 [paper](https://link.springer.com/chapter/10.1007/978-3-031-88717-8_29) | 🛠️ [code](https://github.com/TusKANNy/kannolo)
 - *Breaking the Curse of Dimensionality: On the Stability of Modern Vector Retrieval*<br>
   Vihan Lakshman, Blaise Munyampirwa, Julian Shun, Benjamin Coleman<br>
   CoRR, 2025<br>
-  📄 [paper](https://arxiv.org/abs/2512.12458) | 📥 [download pdf](https://arxiv.org/pdf/2512.12458)
+  📄 [paper](https://arxiv.org/abs/2512.12458)
 - *Efficiency Optimizations for Superblock-based Sparse Retrieval*<br>
   Parker Carlson, Wentai Xie, Rohil Shah, Tao Yang<br>
   CoRR, 2026<br>
-  📄 [paper](https://arxiv.org/abs/2602.02883) | 📥 [download pdf](https://arxiv.org/pdf/2602.02883) 
+  📄 [paper](https://arxiv.org/abs/2602.02883)
 - *Evaluating the Efficiency and Effectiveness of Learned Sparse Retrieval with the lsr_benchmark*<br>
   Maik Fröbe, Ferdinand Schlatt, Cosimo Rulli, Tim Hagen, Jan Heinrich Merker, Gijs Hendriksen, Carlos Lassance, Franco Maria Nardini, Rossano Venturini, Martin Potthast<br>
   ECIR, 2026<br>
-  📄 [paper]() | 📥 [download pdf](https://downloads.webis.de/publications/papers/froebe_2026a.pdf) | 🛠️ [code](https://github.com/reneuir/lsr-benchmark)
+  📄 [paper]() | 🛠️ [code](https://github.com/reneuir/lsr-benchmark)
 - *Forward Index Compression for Learned Sparse Retrieval*<br>
   Sebastian Bruch, Martino Fontana, Franco Maria Nardini, Cosimo Rulli, Rossano Venturini<br>
   ECIR, 2026<br>
-  📄 [paper](https://arxiv.org/abs/2602.05445) | 📥 [download pdf](https://arxiv.org/pdf/2602.05445) | 🛠️ [code](https://github.com/TusKANNy/seismic)
+  📄 [paper](https://arxiv.org/abs/2602.05445) | 🛠️ [code](https://github.com/TusKANNy/seismic)
 
 ### Tutorials
 - [SIGIR 2024](https://lsr-tutorial.github.io/)
@@ -231,7 +231,7 @@ An extensive and commented list of resources on Learned Sparse Retrieval. Most o
 
 #### `MS MARCO v1`
 - **Documents**: `8,841,823`
-- **Queries** [`dev.small`]: `6,980` 
+- **Queries** [`dev.small`]: `6,980`
 - **Reference Metric**: `MRR@10`
 
 | Encoding | Link | Avg non-zero (docs) | Avg non-zero (queries) | MRR@10 |
