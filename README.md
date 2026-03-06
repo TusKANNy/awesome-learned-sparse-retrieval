@@ -1,7 +1,15 @@
 # Awesome Learned Sparse Retrieval
-An extensive and commented list of resources on Learned Sparse Retrieval. Most of the resources below refer to learned sparse representations for text retrieval.
+[![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
+An extensive and commented list of resources on Learned Sparse Retrieval (LSR). Most of the resources below refer to learned sparse representations for text retrieval.
 
-## Learned Sparse Retrieval Models
+## Contents
+1. [LSR Models](#lsr-models)
+2. [Indexing LSR](#indexing-lsr)
+3. [Tutorials](#tutorials)
+4. [Software Libraries](#software-libraries)
+5. [Datasets and Encodings](#datasets-and-encodings)
+
+## LSR Models
 - *From Neural Re-Ranking to Neural Ranking: Learning a Sparse Representation for Inverted Indexing*<br>
   Hamed Zamani, Mostafa Dehghani, W. Bruce Croft, Erik Learned-Miller, Jaap Kamps<br>
   CIKM, 2018<br> 📄 [paper](https://dl.acm.org/doi/10.1145/3269206.3271800)
@@ -96,7 +104,7 @@ An extensive and commented list of resources on Learned Sparse Retrieval. Most o
   Thibault Formal, Maxime Louis, Hervé Déjean, Stéphane Clinchant<br>
   ICLR, 2025<br> 📄 [paper](https://openreview.net/forum?id=TuFjICawSc)
 
-## Indexing
+## Indexing LSR
 - *Efficient and Robust Approximate Nearest Neighbor Search Using Hierarchical Navigable Small World Graphs*<br>
   Yury A. Malkov, Dmitry A. Yashunin<br>
   IEEE Transactions on Pattern Analysis and Machine Intelligence, 2020<br>
@@ -217,7 +225,7 @@ An extensive and commented list of resources on Learned Sparse Retrieval. Most o
 ### Tutorials
 - [SIGIR 2024](https://lsr-tutorial.github.io/)
 
-### Libraries
+### Software Libraries
 - [lsr-benchmark](https://github.com/reneuir/lsr-benchmark/) <img src="images/python-logo.svg" height="16" alt="Python"/><br>*Framework for the evaluation of the learned sparse retrieval paradigm to contrast efficiency and effectiveness across diverse retrieval scenarios*
 - [kANNolo](https://github.com/TusKANNy/kannolo) <img src="images/python-logo.svg" height="16" alt="Python"/> <img src="images/rust-logo.svg" height="22" alt="Rust"/><br>*Library for fast dense/sparse learned retrieval with graph-based indexes.*
 - [Seismic](https://github.com/TusKANNy/seismic) <img src="images/python-logo.svg" height="16" alt="Python"/> <img src="images/rust-logo.svg" height="22" alt="Rust"/><br>*State-of-the-Art library for fast sparse learned retrieval and indexing with focus on efficient inverted-index structures built on modern research*
