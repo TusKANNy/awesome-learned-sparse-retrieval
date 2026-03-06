@@ -8,7 +8,6 @@ An extensive and commented list of resources on Learned Sparse Retrieval (LSR). 
 3. [Tutorials](#tutorials)
 4. [Software Libraries](#software-libraries)
 5. [Datasets and Encodings](#datasets-and-encodings)
-6. [List Maintainers](#list-maintainers)
 
 ## LSR Models
 - *From Neural Re-Ranking to Neural Ranking: Learning a Sparse Representation for Inverted Indexing*<br>
