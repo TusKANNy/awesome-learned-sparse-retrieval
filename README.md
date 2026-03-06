@@ -56,25 +56,25 @@ An extensive and commented list of resources on Learned Sparse Retrieval. Most o
   ECIR, 2024<br> 📄 [paper](https://arxiv.org/abs/2404.13357)
 - *SPLATE: Sparse Late Interaction Retrieval*<br>
   Thibault Formal, Stephane Clinchant, Hervé Déjean, Carlos Lassance<br>
-  SIGIR, 2024<br> 📄 [paper]()
+  SIGIR, 2024<br> 📄 [paper](https://arxiv.org/abs/2404.13950)
 - *Multimodal Learned Sparse Retrieval with Probabilistic Expansion Control*<br>
   Thong Nguyen, Mariya Hendriksen, Andrew Yates, Maarten de Rijke<br>
-  ECIR, 2024<br> 📄 [paper]()
+  ECIR, 2024<br> 📄 [paper](https://arxiv.org/abs/2402.17535)
 - *DyVo: Dynamic Vocabularies for Learned Sparse Retrieval with Entities*<br>
   Thong Nguyen, Shubham Chatterjee, Sean MacAvaney, Iain Mackie, Jeff Dalton, Andrew Yates<br>
-  EMNLP, 2024<br> 📄 [paper]()
+  EMNLP, 2024<br> 📄 [paper](https://aclanthology.org/2024.emnlp-main.45/)
 - *SPLADE-v3: New baselines for SPLADE*<br>
   Carlos Lassance, Hervé Déjean, Thibault Formal, Stephane Clinchant<br>
-  CoRR, 2024<br> 📄 [paper]()
+  CoRR, 2024<br> 📄 [paper](https://arxiv.org/abs/2403.06789)
 - *Towards Competitive Search Relevance For Inference-Free Learned Sparse Retrievers*<br>
   Zhichao Geng, Dongyu Ru, Yang Yang<br>
-  CoRR, 2024<br> 📄 [paper]()
+  CoRR, 2024<br> 📄 [paper](https://arxiv.org/abs/2411.04403)
 - *An Alternative to FLOPS Regularization to Effectively Productionize SPLADE-doc*<br>
   Aldo Porco, Dhruv Mehra, Igor Malioutov, Karthik Radhakrishnan, Moniba Keymanesh, Daniel Preotiuc-Pietro, Sean MacAvaney, Pengxiang Cheng<br>
-  SIGIR, 2025<br> 📄 [paper]()
+  SIGIR, 2025<br> 📄 [paper](https://dl.acm.org/doi/10.1145/3726302.3730163)
 - *Effective Inference-Free Retrieval for Learned Sparse Representations*<br>
   Franco Maria Nardini, Thong Nguyen, Cosimo Rulli, Rossano Venturini, Andrew Yates<br>
-  SIGIR, 2025<br> 📄 [paper]()
+  SIGIR, 2025<br> 📄 [paper](https://dl.acm.org/doi/10.1145/3726302.3730185)
 - *Enhancing Lexicon-Based Text Embeddings with Large Language Models*<br>
   Yibin Lei, Tao Shen, Yu Cao, Andrew Yates<br>
   ACL, 2025<br> 📄 [paper]()
