@@ -5,7 +5,7 @@ An extensive and commented list of resources on Learned Sparse Retrieval. Most o
 - *From Neural Re-Ranking to Neural Ranking: Learning a Sparse Representation for Inverted Indexing*<br>
   Hamed Zamani, Mostafa Dehghani, W. Bruce Croft, Erik Learned-Miller, Jaap Kamps<br>
   CIKM, 2018<br> 📄 [paper](https://dl.acm.org/doi/10.1145/3269206.3271800)
-- *Expansion via Prediction of Importance with Contextualization (EPIC)*<br>
+- *Expansion via Prediction of Importance with Contextualization*<br>
   Sean MacAvaney, Franco Maria Nardini, Raffaele Perego, Nicola Tonellotto, Nazli Goharian, Ophir Frieder<br>
   SIGIR, 2020<br> 📄 [paper](https://dl.acm.org/doi/10.1145/3397271.3401262)
 - *Context-Aware Term Weighting For First Stage Passage Retrieval*<br>
