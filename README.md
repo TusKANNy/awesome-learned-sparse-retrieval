@@ -29,31 +29,31 @@ An extensive and commented list of resources on Learned Sparse Retrieval. Most o
   SIGIR, 2021<br> 📄 [paper](https://dl.acm.org/doi/10.1145/3404835.3462922)
 - *From Distillation to Hard Negative Sampling: Making Sparse Neural IR Models More Effective*<br>
   Thibault Formal, Carlos Lassance, Benjamin Piwowarski, Stephane Clinchant<br>
-  SIGIR, 2022<br> 📄 [paper]()
+  SIGIR, 2022<br> 📄 [paper](https://arxiv.org/abs/2205.04733)
 - *An Efficiency Study for SPLADE Models*<br>
   Carlos Lassance, Stéphane Clinchant<br>
   SIGIR, 2022<br> 📄 [paper](https://dl.acm.org/doi/10.1145/3477495.3531833)
 - *Learning a Sparse Representation Model for Neural CLIR*<br>
   Suraj Nair, Eugene Yang, Dawn J Lawrie, James Mayfield, Douglas W. Oard<br>
-  DESIRES, 2022<br> 📄 [paper]()
+  DESIRES, 2022<br> 📄 [paper](https://ceur-ws.org/Vol-3480/paper-06.pdf)
 - *LexMAE: Lexicon-Bottlenecked Pretraining for Large-Scale Retrieval*<br>
   Tao Shen, Xiubo Geng, Chongyang Tao, Can Xu, Xiaolong Huang, Binxing Jiao, Linjun Yang, Daxin Jiang<br>
-  ICLR, 2023<br> 📄 [paper]()
+  ICLR, 2023<br> 📄 [paper](https://arxiv.org/abs/2208.14754)
 - *A Unified Framework for Learned Sparse Retrieval*<br>
   Thong Nguyen, Sean MacAvaney, Andrew Yates<br>
-  ECIR, 2023<br> 📄 [paper]()
+  ECIR, 2023<br> 📄 [paper](https://arxiv.org/abs/2303.13416)
 - *BLADE: Combining Vocabulary Pruning and Intermediate Pretraining for Scaleable Neural CLIR*<br>
   Suraj Nair, Eugene Yang, Dawn Lawrie, James Mayfield, Douglas W. Oard<br>
-  SIGIR, 2023<br> 📄 [paper]()
+  SIGIR, 2023<br> 📄 [paper](https://dl.acm.org/doi/10.1145/3539618.3591644)
 - *Learning Sparse Lexical Representations Over Specified Vocabularies for Retrieval*<br>
   Jeffrey M Dudek, Weize Kong, Cheng Li, Mingyang Zhang, Michael Bendersky<br>
-  CIKM, 2023<br> 📄 [paper]()
+  CIKM, 2023<br> 📄 [paper](https://dl.acm.org/doi/10.1145/3583780.3615207)
 - *Improved Learned Sparse Retrieval with Corpus-Specific Vocabularies*<br>
   Puxuan Yu, Antonio Mallia, Matthias Petri<br>
-  ECIR, 2024<br> 📄 [paper]()
+  ECIR, 2024<br> 📄 [paper](https://arxiv.org/abs/2401.06703)
 - *Two-Step SPLADE: Simple, Efficient and Effective Approximation of SPLADE*<br>
   Carlos Lassance, Hervé Déjean, Stephane Clinchant, Nicola Tonellotto<br>
-  ECIR, 2024<br> 📄 [paper]()
+  ECIR, 2024<br> 📄 [paper](https://arxiv.org/abs/2404.13357)
 - *SPLATE: Sparse Late Interaction Retrieval*<br>
   Thibault Formal, Stephane Clinchant, Hervé Déjean, Carlos Lassance<br>
   SIGIR, 2024<br> 📄 [paper]()
