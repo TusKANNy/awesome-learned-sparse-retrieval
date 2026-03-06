@@ -77,19 +77,19 @@ An extensive and commented list of resources on Learned Sparse Retrieval. Most o
   SIGIR, 2025<br> 📄 [paper](https://dl.acm.org/doi/10.1145/3726302.3730185)
 - *Enhancing Lexicon-Based Text Embeddings with Large Language Models*<br>
   Yibin Lei, Tao Shen, Yu Cao, Andrew Yates<br>
-  ACL, 2025<br> 📄 [paper]()
+  ACL, 2025<br> 📄 [paper](https://aclanthology.org/2025.acl-long.930)
 - *Leveraging decoder architectures for learned sparse retrieval*<br>
   Jingfen Qiao, Thong Nguyen, Evangelos Kanoulas, Andrew Yates<br>
-  International Workshop on Knowledge-Enhanced Information Retrieval, 2025<br> 📄 [paper]()
+  International Workshop on Knowledge-Enhanced Information Retrieval, 2025<br> 📄 [paper](https://arxiv.org/abs/2504.18151)
 - *Scaling sparse and dense retrieval in decoder-only LLMs*<br>
   Hansi Zeng, Julian Killingback, Hamed Zamani<br>
-  SIGIR, 2025<br> 📄 [paper]()
+  SIGIR, 2025<br> 📄 [paper](https://arxiv.org/abs/2502.15526)
 - *CSPLADE: Learned Sparse Retrieval with Causal Language Models*<br>
   Zhichao Xu, Aosong Feng, Yijun Tian, Haibo Ding, Lin Lee Cheong<br>
-  CoRR, 2025<br> 📄 [paper]()
+  CoRR, 2025<br> 📄 [paper](https://arxiv.org/abs/2504.10816)
 - *On the Reproducibility of Learned Sparse Retrieval Adaptations for Long Documents*<br>
   Emmanouil Georgios Lionis, Jia-Huei Ju<br>
-  ECIR, 2025<br> 📄 [paper]()
+  ECIR, 2025<br> 📄 [paper](https://arxiv.org/abs/2503.23824)
 - *Learning Retrieval Models with Sparse Autoencoders*<br>
   Thibault Formal, Maxime Louis, Hervé Déjean, Stéphane Clinchant<br>
   ICLR, 2025<br> 📄 [paper](https://openreview.net/forum?id=TuFjICawSc)
