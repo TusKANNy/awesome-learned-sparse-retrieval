@@ -237,6 +237,9 @@ An extensive and commented list of resources on Learned Sparse Retrieval (LSR). 
 - [Apache Lucene](https://lucene.apache.org/) <img src="images/python-logo.svg" height="16" alt="Python"/> <img src="images/java-logo.png" height="24" alt="Java"/><br>*High-performance Java search library providing inverted indexes and scoring infrastructure that underpins many learned sparse retrieval systems.*
 - [Qdrant](https://qdrant.tech/) <img src="images/python-logo.svg" height="16" alt="Python"/> <img src="images/rust-logo.svg" height="22" alt="Rust"/><br>*Open-source vector database supporting dense, sparse, and hybrid retrieval with native sparse vector indexing based on an inverted index for exact high-dimensional sparse search.*
 - [FlashRAG](https://github.com/RUC-NLPIR/FlashRAG) <img src="images/python-logo.svg" height="16" alt="Python"/><br>*A Python Toolkit for Efficient RAG Research.*
+- [PyTerrier](https://github.com/terrier-org/pyterrier) <img src="images/python-logo.svg" height="16" alt="Python"/><br>*A Python framework for performing information retrieval experiments*
+
+
 
 ### Datasets and Encodings
 
