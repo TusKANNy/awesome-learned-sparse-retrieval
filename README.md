@@ -212,10 +212,7 @@ An extensive and commented list of resources on Learned Sparse Retrieval. Most o
   ECIR, 2026<br>
   📄 [paper](https://arxiv.org/abs/2602.05445) | 📥 [download pdf](https://arxiv.org/pdf/2602.05445) | 🛠️ [code](https://github.com/TusKANNy/seismic)
 
-## Resources
-
 ### Libraries
-
 - [lsr-benchmark](https://github.com/reneuir/lsr-benchmark/) <img src="images/python-logo.svg" height="16" alt="Python"/><br>*Framework for the evaluation of the learned sparse retrieval paradigm to contrast efficiency and effectiveness across diverse retrieval scenarios*
 - [kANNolo](https://github.com/TusKANNy/kannolo) <img src="images/python-logo.svg" height="16" alt="Python"/> <img src="images/rust-logo.svg" height="22" alt="Rust"/><br>*Library for fast dense/sparse learned retrieval and indexing with focus on efficient inverted-index structures built on modern research*
 - [Seismic](https://github.com/TusKANNy/seismic) <img src="images/python-logo.svg" height="16" alt="Python"/> <img src="images/rust-logo.svg" height="22" alt="Rust"/><br>*State-of-the-Art library for fast sparse learned retrieval and indexing with focus on efficient inverted-index structures built on modern research*
@@ -226,19 +223,17 @@ An extensive and commented list of resources on Learned Sparse Retrieval. Most o
 - [OpenSearch](https://opensearch.org/) <img src="images/python-logo.svg" height="16" alt="Python"/> <img src="images/java-logo.png" height="24" alt="Java"/><br>*Open-source search and analytics engine that supports scalable sparse, dense, and hybrid neural retrieval via plugins and vector extensions.*
 - [Apache Lucene](https://lucene.apache.org/) <img src="images/python-logo.svg" height="16" alt="Python"/> <img src="images/java-logo.png" height="24" alt="Java"/><br>*High-performance Java search library providing inverted indexes and scoring infrastructure that underpins many learned sparse retrieval systems.*
 - [Qdrant](https://qdrant.tech/) <img src="images/python-logo.svg" height="16" alt="Python"/> <img src="images/rust-logo.svg" height="22" alt="Rust"/><br>*Open-source vector database supporting dense, sparse, and hybrid retrieval with native sparse vector indexing based on an inverted index for exact high-dimensional sparse search.*
-
+- [FlashRAG](https://github.com/RUC-NLPIR/FlashRAG) <img src="images/python-logo.svg" height="16" alt="Python"/><br>*FlashRAG: A Python Toolkit for Efficient RAG Research.*
 
 ### Tutorials
-
 - [SIGIR 2024](https://lsr-tutorial.github.io/)
 
-### Datasets
+### Datasets and Encodings
 
 #### `MS MARCO v1`
 - **Documents**: `8,841,823`
 - **Queries** [`dev.small`]: `6,980` 
 - **Reference Metric**: `MRR@10`
-
 
 | Encoding | Link | Avg non-zero (docs) | Avg non-zero (queries) | MRR@10 |
 |---|---|---:|---:|---:|
@@ -248,9 +243,7 @@ An extensive and commented list of resources on Learned Sparse Retrieval. Most o
 | `splade-v3` | [link](https://huggingface.co/datasets/tuskanny/msmarco-spladev3/tree/main) | `168` | `24` | `40.3` |
 | `li-lsr-big` | [link](https://huggingface.co/datasets/tuskanny/lilsr_big_msmarco) | `387` | `6` | `38.8` |
 
-
 #### `MS MARCO v2`
-
 - **Documents**: `138,363,364`
 - **Queries** [`dev1.small`]: `3,903`
 - **Reference Metric**: `MRR@10`
@@ -258,8 +251,6 @@ An extensive and commented list of resources on Learned Sparse Retrieval. Most o
 | Encoding | Link | Avg non-zero (docs) | Avg non-zero (queries) | MRR@10 |
 |---|---|---:|---:|---:|
 | `splade-cocondenser` | [link](https://huggingface.co/datasets/tuskanny/msmarco-v2-splade) | `127` | `44` | `10.88` |
-
-
 
 #### `NQ`
 - **Documents**: `2,680,893`
@@ -288,4 +279,3 @@ An extensive and commented list of resources on Learned Sparse Retrieval. Most o
 | Encoding | Link | Avg non-zero (docs) | Avg non-zero (queries) | nDCG@10 |
 |---|---|---:|---:|---:|
 | `splade-v3` | [link](https://huggingface.co/datasets/tuskanny/quora-sparse) | `40` | `36` | `81.4` |
-
