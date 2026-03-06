@@ -280,6 +280,6 @@ An extensive and commented list of resources on Learned Sparse Retrieval. Most o
 | `splade-v3` | [link](https://huggingface.co/datasets/tuskanny/quora-sparse) | `40` | `36` | `81.4` |
 
 ### List Maintainers (alphabetical order)
-Franco Maria Nardini (ISTI-CNR, Pisa, Italy)
-Cosimo Rulli (ISTI-CNR, Pisa, Italy)
-Rossano Venturini (University of Pisa, Italy)
+Franco Maria Nardini (ISTI-CNR, Pisa, Italy)<br>
+Cosimo Rulli (ISTI-CNR, Pisa, Italy)<br>
+Rossano Venturini (University of Pisa, Italy)<br>
