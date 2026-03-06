@@ -22,13 +22,13 @@ An extensive and commented list of resources on Learned Sparse Retrieval. Most o
   CoRR, 2021<br> 📄 [paper](https://arxiv.org/abs/2109.10086)
 - *SPARTA: Efficient Open-Domain Question Answering via Sparse Transformer Matching Retrieval*<br>
   Tiancheng Zhao, Xiaopeng Lu, Kyusong Lee<br>
-  NAACL, 2021<br> 📄 [paper](https://dl.acm.org/doi/10.1145/3404835.3463098)
+  NAACL, 2021<br> 📄 [paper](https://aclanthology.org/2021.naacl-main.47/)
 - *TILDE: Term Independent Likelihood moDEl for Passage Re-ranking*<br>
   Shengyao Zhuang, Guido Zuccon<br>
   SIGIR, 2021<br> 📄 [paper](https://dl.acm.org/doi/10.1145/3404835.3462922)
 - *From Distillation to Hard Negative Sampling: Making Sparse Neural IR Models More Effective*<br>
   Thibault Formal, Carlos Lassance, Benjamin Piwowarski, Stephane Clinchant<br>
-  SIGIR, 2022<br> 📄 [paper](https://arxiv.org/abs/2205.04733)
+  SIGIR, 2022<br> 📄 [paper](https://dl.acm.org/doi/10.1145/3477495.3531857)
 - *An Efficiency Study for SPLADE Models*<br>
   Carlos Lassance, Stéphane Clinchant<br>
   SIGIR, 2022<br> 📄 [paper](https://dl.acm.org/doi/10.1145/3477495.3531833)
@@ -37,10 +37,10 @@ An extensive and commented list of resources on Learned Sparse Retrieval. Most o
   DESIRES, 2022<br> 📄 [paper](https://ceur-ws.org/Vol-3480/paper-06.pdf)
 - *LexMAE: Lexicon-Bottlenecked Pretraining for Large-Scale Retrieval*<br>
   Tao Shen, Xiubo Geng, Chongyang Tao, Can Xu, Xiaolong Huang, Binxing Jiao, Linjun Yang, Daxin Jiang<br>
-  ICLR, 2023<br> 📄 [paper](https://arxiv.org/abs/2208.14754)
+  ICLR, 2023<br> 📄 [paper](https://openreview.net/forum?id=PfpEtB3-csK)
 - *A Unified Framework for Learned Sparse Retrieval*<br>
   Thong Nguyen, Sean MacAvaney, Andrew Yates<br>
-  ECIR, 2023<br> 📄 [paper](https://arxiv.org/abs/2303.13416)
+  ECIR, 2023<br> 📄 [paper](https://link.springer.com/chapter/10.1007/978-3-031-28241-6_7)
 - *BLADE: Combining Vocabulary Pruning and Intermediate Pretraining for Scaleable Neural CLIR*<br>
   Suraj Nair, Eugene Yang, Dawn Lawrie, James Mayfield, Douglas W. Oard<br>
   SIGIR, 2023<br> 📄 [paper](https://dl.acm.org/doi/10.1145/3539618.3591644)
@@ -49,16 +49,16 @@ An extensive and commented list of resources on Learned Sparse Retrieval. Most o
   CIKM, 2023<br> 📄 [paper](https://dl.acm.org/doi/10.1145/3583780.3615207)
 - *Improved Learned Sparse Retrieval with Corpus-Specific Vocabularies*<br>
   Puxuan Yu, Antonio Mallia, Matthias Petri<br>
-  ECIR, 2024<br> 📄 [paper](https://arxiv.org/abs/2401.06703)
+  ECIR, 2024<br> 📄 [paper](https://link.springer.com/chapter/10.1007/978-3-031-56063-7_12)
 - *Two-Step SPLADE: Simple, Efficient and Effective Approximation of SPLADE*<br>
   Carlos Lassance, Hervé Déjean, Stephane Clinchant, Nicola Tonellotto<br>
-  ECIR, 2024<br> 📄 [paper](https://arxiv.org/abs/2404.13357)
+  ECIR, 2024<br> 📄 [paper](https://link.springer.com/chapter/10.1007/978-3-031-56060-6_23)
 - *SPLATE: Sparse Late Interaction Retrieval*<br>
   Thibault Formal, Stephane Clinchant, Hervé Déjean, Carlos Lassance<br>
-  SIGIR, 2024<br> 📄 [paper](https://arxiv.org/abs/2404.13950)
+  SIGIR, 2024<br> 📄 [paper](https://dl.acm.org/doi/10.1145/3626772.3657968)
 - *Multimodal Learned Sparse Retrieval with Probabilistic Expansion Control*<br>
   Thong Nguyen, Mariya Hendriksen, Andrew Yates, Maarten de Rijke<br>
-  ECIR, 2024<br> 📄 [paper](https://arxiv.org/abs/2402.17535)
+  ECIR, 2024<br> 📄 [paper](https://link.springer.com/chapter/10.1007/978-3-031-56060-6_29)
 - *DyVo: Dynamic Vocabularies for Learned Sparse Retrieval with Entities*<br>
   Thong Nguyen, Shubham Chatterjee, Sean MacAvaney, Iain Mackie, Jeff Dalton, Andrew Yates<br>
   EMNLP, 2024<br> 📄 [paper](https://aclanthology.org/2024.emnlp-main.45/)
