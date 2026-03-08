@@ -1,5 +1,6 @@
 # Awesome Learned Sparse Retrieval
-[![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)<br>
+[![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re) ![Project Status](https://img.shields.io/badge/status-active-brightgreen) ![Last Commit](https://img.shields.io/github/last-commit/:user/https%3A%2F%2Fgithub.com%2FTusKANNy%2Fawesome-learned-sparse-retrieval)
+<br>
 An extensive and commented list of resources on Learned Sparse Retrieval (LSR). Most of the resources below refer to learned sparse representations for text retrieval.
 
 ## Contents
