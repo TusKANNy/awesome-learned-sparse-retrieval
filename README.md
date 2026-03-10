@@ -111,10 +111,10 @@ An extensive and commented list of resources on Learned Sparse Retrieval (LSR). 
   ECIR, 2025<br> 📄 [paper](https://arxiv.org/abs/2503.23824)
 - *Learning Retrieval Models with Sparse Autoencoders*<br>
   Thibault Formal, Maxime Louis, Hervé Déjean, Stéphane Clinchant<br>
-  ICLR, 2025<br> 📄 [paper](https://openreview.net/forum?id=TuFjICawSc)
+  ICLR, 2026<br> 📄 [paper](https://openreview.net/forum?id=TuFjICawSc)
 - *Milco: Learned Sparse Retrieval Across Languages via a Multilingual Connector*<br>
   Thong Nguyen, Yibin Lei, Jia-Huei Ju, Eugene Yang, Andrew Yates<br>
-  ICLR, 2025<br> 📄 [paper](https://arxiv.org/abs/2510.00671)
+  ICLR, 2026<br> 📄 [paper](https://arxiv.org/abs/2510.00671)
 ## Indexing LSR
 - *Efficient and Robust Approximate Nearest Neighbor Search Using Hierarchical Navigable Small World Graphs*<br>
   Yury A. Malkov, Dmitry A. Yashunin<br>
