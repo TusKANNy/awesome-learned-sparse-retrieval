@@ -4,11 +4,19 @@
 An extensive and commented list of resources on Learned Sparse Retrieval (LSR). Most of the resources below refer to learned sparse representations for text retrieval.
 
 ## Contents
-1. [LSR Models](#lsr-models)
-2. [Indexing LSR](#indexing-lsr)
-3. [Tutorials](#tutorials)
-4. [Software Libraries](#software-libraries)
-5. [Datasets and Encodings](#datasets-and-encodings)
+- [Awesome Learned Sparse Retrieval](#awesome-learned-sparse-retrieval)
+  - [Contents](#contents)
+  - [LSR Models](#lsr-models)
+  - [Indexing LSR](#indexing-lsr)
+    - [Tutorials](#tutorials)
+    - [Software Libraries](#software-libraries)
+    - [Datasets and Encodings](#datasets-and-encodings)
+      - [`MS MARCO v1`](#ms-marco-v1)
+      - [`MS MARCO v2`](#ms-marco-v2)
+      - [`NQ`](#nq)
+      - [`LoTTE-pooled`](#lotte-pooled)
+      - [`Quora`](#quora)
+    - [List Maintainers (alphabetical order)](#list-maintainers-alphabetical-order)
 
 ## LSR Models
 - *From Neural Re-Ranking to Neural Ranking: Learning a Sparse Representation for Inverted Indexing*<br>
@@ -104,7 +112,9 @@ An extensive and commented list of resources on Learned Sparse Retrieval (LSR). 
 - *Learning Retrieval Models with Sparse Autoencoders*<br>
   Thibault Formal, Maxime Louis, Hervé Déjean, Stéphane Clinchant<br>
   ICLR, 2025<br> 📄 [paper](https://openreview.net/forum?id=TuFjICawSc)
-
+- *Milco: Learned Sparse Retrieval Across Languages via a Multilingual Connector*<br>
+  Thong Nguyen, Yibin Lei, Jia-Huei Ju, Eugene Yang, Andrew Yates<br>
+  ICLR, 2025<br> 📄 [paper](https://arxiv.org/abs/2510.00671)
 ## Indexing LSR
 - *Efficient and Robust Approximate Nearest Neighbor Search Using Hierarchical Navigable Small World Graphs*<br>
   Yury A. Malkov, Dmitry A. Yashunin<br>
