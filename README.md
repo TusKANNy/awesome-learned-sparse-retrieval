@@ -85,6 +85,9 @@ An extensive and commented list of resources on Learned Sparse Retrieval (LSR). 
 - *Towards Competitive Search Relevance For Inference-Free Learned Sparse Retrievers*<br>
   Zhichao Geng, Dongyu Ru, Yang Yang<br>
   CoRR, 2024<br> 📄 [paper](https://arxiv.org/abs/2411.04403)
+- *Mistral-SPLADE: LLMs for better Learned Sparse Retrieval*<br>
+  Meet Doshi, Vishwajeet Kumar, Rudra Murthy, Vignesh P, Jaydeep Sen<br>
+  CoRR, 2024<br> 📄 [paper](https://arxiv.org/abs/2408.11119)
 - *An Alternative to FLOPS Regularization to Effectively Productionize SPLADE-doc*<br>
   Aldo Porco, Dhruv Mehra, Igor Malioutov, Karthik Radhakrishnan, Moniba Keymanesh, Daniel Preotiuc-Pietro, Sean MacAvaney, Pengxiang Cheng<br>
   SIGIR, 2025<br> 📄 [paper](https://dl.acm.org/doi/10.1145/3726302.3730163)
