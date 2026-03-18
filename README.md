@@ -121,7 +121,7 @@ An extensive and commented list of resources on Learned Sparse Retrieval (LSR). 
 
 - *LACONIC: Dense-Level Effectiveness for Scalable Sparse Retrieval via a Two-Phase Training Curriculum* <br>
   Zhichao Xu, Shengyao Zhuang, Crystina Zhang, Xueguang Ma, Yijun Tian, Maitrey Mehta, Jimmy Lin, Vivek Srikumar <br>
-  CoRR, 2026 📄 <br> 📄[paper](https://arxiv.org/pdf/2601.01684)
+  CoRR, 2026<br> 📄 [paper](https://arxiv.org/pdf/2601.01684)
 ## Indexing LSR
 - *Efficient and Robust Approximate Nearest Neighbor Search Using Hierarchical Navigable Small World Graphs*<br>
   Yury A. Malkov, Dmitry A. Yashunin<br>
