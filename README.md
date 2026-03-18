@@ -273,7 +273,7 @@ An extensive and commented list of resources on Learned Sparse Retrieval (LSR). 
 | `uniCOIL-T5` | [link](https://huggingface.co/datasets/tuskanny/seismic-msmarco-unicoilT5) | `68` | `6` | `35.2` |
 | `splade-v3` | [link](https://huggingface.co/datasets/tuskanny/msmarco-spladev3/tree/main) | `168` | `24` | `40.3` |
 | `li-lsr-big` | [link](https://huggingface.co/datasets/tuskanny/lilsr_big_msmarco) | `387` | `6` | `38.8` |
-| `laconic-1B` | [link](https://huggingface.co/datasets/tuskanny/msmarco-laconic1b) | `100` | `511` | `37.2`| 
+| `laconic-1B` | [link](https://huggingface.co/datasets/tuskanny/msmarco-laconic1b) | `511` | `100` | `37.2`| 
 
 #### `MS MARCO v2`
 - **Documents**: `138,363,364`
