@@ -118,10 +118,20 @@ An extensive and commented list of resources on Learned Sparse Retrieval (LSR). 
 - *Milco: Learned Sparse Retrieval Across Languages via a Multilingual Connector*<br>
   Thong Nguyen, Yibin Lei, Jia-Huei Ju, Eugene Yang, Andrew Yates<br>
   ICLR, 2026<br> 📄 [paper](https://arxiv.org/abs/2510.00671)
-
 - *LACONIC: Dense-Level Effectiveness for Scalable Sparse Retrieval via a Two-Phase Training Curriculum* <br>
   Zhichao Xu, Shengyao Zhuang, Crystina Zhang, Xueguang Ma, Yijun Tian, Maitrey Mehta, Jimmy Lin, Vivek Srikumar <br>
   CoRR, 2026<br> 📄 [paper](https://arxiv.org/pdf/2601.01684)
+- *Self-Improving Sparse Retrieval Through Heuristic Representation Refinement
+and Representation-Focused Learning* <br>
+  Xiaojing Li,  Bin Wang, Xiaochun Yang, Meng Luo
+  AAAI, 2026<br>
+  [paper](https://ojs.aaai.org/index.php/AAAI/article/view/38537/42499)
+
+-*To Case or Not to Case: An Empirical Study in Learned Sparse Retrieval* <br>
+Emmanouil Georgios Lionis, Jia-Huei Ju,  Angelos Nalmpantis, Casper Thuis, Sean MacAvaney, Andrew Yates <br>
+ECIR, 2026<br>
+[paper](https://arxiv.org/pdf/2601.17500)
+
 ## Indexing LSR
 - *Efficient and Robust Approximate Nearest Neighbor Search Using Hierarchical Navigable Small World Graphs*<br>
   Yury A. Malkov, Dmitry A. Yashunin<br>
