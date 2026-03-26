@@ -121,9 +121,8 @@ An extensive and commented list of resources on Learned Sparse Retrieval (LSR). 
 - *LACONIC: Dense-Level Effectiveness for Scalable Sparse Retrieval via a Two-Phase Training Curriculum* <br>
   Zhichao Xu, Shengyao Zhuang, Crystina Zhang, Xueguang Ma, Yijun Tian, Maitrey Mehta, Jimmy Lin, Vivek Srikumar <br>
   CoRR, 2026<br> 📄 [paper](https://arxiv.org/pdf/2601.01684)
-- *Self-Improving Sparse Retrieval Through Heuristic Representation Refinement
-and Representation-Focused Learning* <br>
-  Xiaojing Li,  Bin Wang, Xiaochun Yang, Meng Luo
+- *Self-Improving Sparse Retrieval Through Heuristic Representation Refinement and Representation-Focused Learning* <br>
+  Xiaojing Li,  Bin Wang, Xiaochun Yang, Meng Luo<br>
   AAAI, 2026<br>
   [paper](https://ojs.aaai.org/index.php/AAAI/article/view/38537/42499)
 
