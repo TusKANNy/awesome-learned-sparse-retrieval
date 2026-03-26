@@ -127,7 +127,7 @@ and Representation-Focused Learning* <br>
   AAAI, 2026<br>
   [paper](https://ojs.aaai.org/index.php/AAAI/article/view/38537/42499)
 
--*To Case or Not to Case: An Empirical Study in Learned Sparse Retrieval* <br>
+- *To Case or Not to Case: An Empirical Study in Learned Sparse Retrieval* <br>
 Emmanouil Georgios Lionis, Jia-Huei Ju,  Angelos Nalmpantis, Casper Thuis, Sean MacAvaney, Andrew Yates <br>
 ECIR, 2026<br>
 [paper](https://arxiv.org/pdf/2601.17500)
