@@ -82,6 +82,9 @@ An extensive and commented list of resources on Learned Sparse Retrieval (LSR). 
 - *SPLADE-v3: New baselines for SPLADE*<br>
   Carlos Lassance, Hervé Déjean, Thibault Formal, Stephane Clinchant<br>
   CoRR, 2024<br> 📄 [paper](https://arxiv.org/abs/2403.06789)
+- *DiSCo: LLM Knowledge Distillation for Efficient Sparse Retrieval in Conversational Search*<br>
+  Simon Lupart, Mohammad Aliannejadi, Evangelos Kanoulas<br>
+  CoRR, 2024<br> 📄 [paper](https://arxiv.org/abs/2410.14609)
 - *Towards Competitive Search Relevance For Inference-Free Learned Sparse Retrievers*<br>
   Zhichao Geng, Dongyu Ru, Yang Yang<br>
   CoRR, 2024<br> 📄 [paper](https://arxiv.org/abs/2411.04403)
