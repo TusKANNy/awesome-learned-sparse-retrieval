@@ -120,7 +120,10 @@ An extensive and commented list of resources on Learned Sparse Retrieval (LSR). 
   ICLR, 2026<br> 📄 [paper](https://arxiv.org/abs/2510.00671)
 - *LACONIC: Dense-Level Effectiveness for Scalable Sparse Retrieval via a Two-Phase Training Curriculum* <br>
   Zhichao Xu, Shengyao Zhuang, Crystina Zhang, Xueguang Ma, Yijun Tian, Maitrey Mehta, Jimmy Lin, Vivek Srikumar <br>
-  CoRR, 2026<br> 📄 [paper](https://arxiv.org/pdf/2601.01684)
+  CoRR, 2026<br> 📄 [paper](https://doi.org/10.48550/arXiv.2601.01684)
+- *Sparton: Fast and Memory-Efficient Triton Kernel for Learned Sparse Retrieval*<br>
+  Thong Nguyen, Cosimo Rulli, Franco Maria Nardini, Rossano Venturini, Andrew Yates<br>
+  CoRR, 2026<br> 📄 [paper](https://arxiv.org/abs/2603.25011)
 - *Self-Improving Sparse Retrieval Through Heuristic Representation Refinement and Representation-Focused Learning* <br>
   Xiaojing Li,  Bin Wang, Xiaochun Yang, Meng Luo<br>
   AAAI, 2026<br>
@@ -129,7 +132,7 @@ An extensive and commented list of resources on Learned Sparse Retrieval (LSR). 
 - *To Case or Not to Case: An Empirical Study in Learned Sparse Retrieval* <br>
 Emmanouil Georgios Lionis, Jia-Huei Ju,  Angelos Nalmpantis, Casper Thuis, Sean MacAvaney, Andrew Yates <br>
 ECIR, 2026<br>
-[paper](https://arxiv.org/pdf/2601.17500)
+[paper](https://doi.org/10.48550/arXiv.2601.17500)
 
 ## Indexing LSR
 - *Efficient and Robust Approximate Nearest Neighbor Search Using Hierarchical Navigable Small World Graphs*<br>
