@@ -8,15 +8,15 @@ An extensive and commented list of resources on Learned Sparse Retrieval (LSR). 
   - [Contents](#contents)
   - [LSR Models](#lsr-models)
   - [Indexing LSR](#indexing-lsr)
-    - [Tutorials](#tutorials)
-    - [Software Libraries](#software-libraries)
-    - [Datasets and Encodings](#datasets-and-encodings)
-      - [`MS MARCO v1`](#ms-marco-v1)
-      - [`MS MARCO v2`](#ms-marco-v2)
-      - [`NQ`](#nq)
-      - [`LoTTE-pooled`](#lotte-pooled)
-      - [`Quora`](#quora)
-    - [List Maintainers (alphabetical order)](#list-maintainers-alphabetical-order)
+  - [Tutorials](#tutorials)
+  - [Software Libraries](#software-libraries)
+  - [Datasets and Encodings](#datasets-and-encodings)
+    - [`MS MARCO v1`](#ms-marco-v1)
+    - [`MS MARCO v2`](#ms-marco-v2)
+    - [`NQ`](#nq)
+    - [`LoTTE-pooled`](#lotte-pooled)
+    - [`Quora`](#quora)
+  - [List Maintainers (alphabetical order)](#list-maintainers-alphabetical-order)
 
 ## LSR Models
 - *From Neural Re-Ranking to Neural Ranking: Learning a Sparse Representation for Inverted Indexing*<br>
@@ -91,6 +91,9 @@ An extensive and commented list of resources on Learned Sparse Retrieval (LSR). 
 - *SPLADE-v3: New baselines for SPLADE*<br>
   Carlos Lassance, Hervé Déjean, Thibault Formal, Stephane Clinchant<br>
   CoRR, 2024<br> 📄 [paper](https://arxiv.org/abs/2403.06789)
+- *DiSCo: LLM Knowledge Distillation for Efficient Sparse Retrieval in Conversational Search*<br>
+  Simon Lupart, Mohammad Aliannejadi, Evangelos Kanoulas<br>
+  SIGIR, 2025<br> 📄 [paper](https://doi.org/10.1145/3726302.3729966)
 - *Towards Competitive Search Relevance For Inference-Free Learned Sparse Retrievers*<br>
   Zhichao Geng, Dongyu Ru, Yang Yang<br>
   CoRR, 2024<br> 📄 [paper](https://arxiv.org/abs/2411.04403)
