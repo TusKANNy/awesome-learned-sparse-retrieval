@@ -8,15 +8,15 @@ An extensive and commented list of resources on Learned Sparse Retrieval (LSR). 
   - [Contents](#contents)
   - [LSR Models](#lsr-models)
   - [Indexing LSR](#indexing-lsr)
-    - [Tutorials](#tutorials)
-    - [Software Libraries](#software-libraries)
-    - [Datasets and Encodings](#datasets-and-encodings)
-      - [`MS MARCO v1`](#ms-marco-v1)
-      - [`MS MARCO v2`](#ms-marco-v2)
-      - [`NQ`](#nq)
-      - [`LoTTE-pooled`](#lotte-pooled)
-      - [`Quora`](#quora)
-    - [List Maintainers (alphabetical order)](#list-maintainers-alphabetical-order)
+  - [Tutorials](#tutorials)
+  - [Software Libraries](#software-libraries)
+  - [Datasets and Encodings](#datasets-and-encodings)
+    - [`MS MARCO v1`](#ms-marco-v1)
+    - [`MS MARCO v2`](#ms-marco-v2)
+    - [`NQ`](#nq)
+    - [`LoTTE-pooled`](#lotte-pooled)
+    - [`Quora`](#quora)
+  - [List Maintainers (alphabetical order)](#list-maintainers-alphabetical-order)
 
 ## LSR Models
 - *From Neural Re-Ranking to Neural Ranking: Learning a Sparse Representation for Inverted Indexing*<br>
@@ -28,6 +28,9 @@ An extensive and commented list of resources on Learned Sparse Retrieval (LSR). 
 - *Context-Aware Term Weighting For First Stage Passage Retrieval*<br>
   Zhuyun Dai, Jamie Callan<br>
   SIGIR, 2020<br> 📄 [paper](https://dl.acm.org/doi/abs/10.1145/3397271.3401204)
+- *A Few Brief Notes on DeepImpact, COIL, and a Conceptual Framework for Information Retrieval Techniques*<br>
+  Jimmy Lin, Xueguang Ma<br>
+  CoRR, 2021<br> 📄 [paper](https://arxiv.org/abs/2106.14807)
 - *Learning Passage Impacts for Inverted Indexes*<br>
   Antonio Mallia, Omar Khattab, Torsten Suel, Nicola Tonellotto<br>
   SIGIR, 2021<br> 📄 [paper](https://dl.acm.org/doi/10.1145/3404835.3463030)
@@ -46,6 +49,9 @@ An extensive and commented list of resources on Learned Sparse Retrieval (LSR). 
 - *From Distillation to Hard Negative Sampling: Making Sparse Neural IR Models More Effective*<br>
   Thibault Formal, Carlos Lassance, Benjamin Piwowarski, Stephane Clinchant<br>
   SIGIR, 2022<br> 📄 [paper](https://dl.acm.org/doi/10.1145/3477495.3531857)
+- *Fast Passage Re-ranking with Contextualized Exact Term Matching and Efficient Passage Expansion*<br>
+  Shengyao Zhuang, Guido Zuccon<br>
+  ReNeuIR at SIGIR, 2022<br> 📄 [paper](https://arxiv.org/abs/2108.08513)
 - *An Efficiency Study for SPLADE Models*<br>
   Carlos Lassance, Stéphane Clinchant<br>
   SIGIR, 2022<br> 📄 [paper](https://dl.acm.org/doi/10.1145/3477495.3531833)
@@ -61,6 +67,9 @@ An extensive and commented list of resources on Learned Sparse Retrieval (LSR). 
 - *BLADE: Combining Vocabulary Pruning and Intermediate Pretraining for Scaleable Neural CLIR*<br>
   Suraj Nair, Eugene Yang, Dawn Lawrie, James Mayfield, Douglas W. Oard<br>
   SIGIR, 2023<br> 📄 [paper](https://dl.acm.org/doi/10.1145/3539618.3591644)
+- *Exploring the Representation Power of SPLADE Models*<br>
+  Joel Mackenzie, Shengyao Zhuang, Guido Zuccon<br>
+  ICTIR, 2023<br> 📄 [paper](https://dl.acm.org/doi/10.1145/3578337.3605129)
 - *Learning Sparse Lexical Representations Over Specified Vocabularies for Retrieval*<br>
   Jeffrey M Dudek, Weize Kong, Cheng Li, Mingyang Zhang, Michael Bendersky<br>
   CIKM, 2023<br> 📄 [paper](https://dl.acm.org/doi/10.1145/3583780.3615207)
@@ -123,20 +132,8 @@ An extensive and commented list of resources on Learned Sparse Retrieval (LSR). 
   ICLR, 2026<br> 📄 [paper](https://arxiv.org/abs/2510.00671)
 - *LACONIC: Dense-Level Effectiveness for Scalable Sparse Retrieval via a Two-Phase Training Curriculum* <br>
   Zhichao Xu, Shengyao Zhuang, Crystina Zhang, Xueguang Ma, Yijun Tian, Maitrey Mehta, Jimmy Lin, Vivek Srikumar <br>
-  CoRR, 2026<br> 📄 [paper](https://doi.org/10.48550/arXiv.2601.01684)
-- *Sparton: Fast and Memory-Efficient Triton Kernel for Learned Sparse Retrieval*<br>
-  Thong Nguyen, Cosimo Rulli, Franco Maria Nardini, Rossano Venturini, Andrew Yates<br>
-  CoRR, 2026<br> 📄 [paper](https://arxiv.org/abs/2603.25011)
-- *Self-Improving Sparse Retrieval Through Heuristic Representation Refinement and Representation-Focused Learning* <br>
-  Xiaojing Li,  Bin Wang, Xiaochun Yang, Meng Luo<br>
-  AAAI, 2026<br>
-  [paper](https://ojs.aaai.org/index.php/AAAI/article/view/38537/42499)
-
-- *To Case or Not to Case: An Empirical Study in Learned Sparse Retrieval* <br>
-Emmanouil Georgios Lionis, Jia-Huei Ju,  Angelos Nalmpantis, Casper Thuis, Sean MacAvaney, Andrew Yates <br>
-ECIR, 2026<br>
-[paper](https://doi.org/10.48550/arXiv.2601.17500)
-
+  CoRR, 2026<br> 📄 [paper](https://arxiv.org/pdf/2601.01684)
+  
 ## Indexing LSR
 - *Efficient and Robust Approximate Nearest Neighbor Search Using Hierarchical Navigable Small World Graphs*<br>
   Yury A. Malkov, Dmitry A. Yashunin<br>
@@ -221,7 +218,7 @@ ECIR, 2026<br>
 - *Dynamic Superblock Pruning for Fast Learned Sparse Retrieval*<br>
   Parker Carlson, Wentai Xie, Shanxiu He, Tao Yang<br>
   SIGIR, 2025<br>
-  📄 [paper](https://dl.acm.org/doi/10.1145/3726302.3730183)
+  📄 [paper](https://dl.acm.org/doi/10.1145/3726302.3730183) | 🛠️ [code](https://github.com/thefxperson/hierarchical_pruning)
 - *Efficient Sketching and Nearest Neighbor Search Algorithms for Sparse Vector Sets*<br>
   Sebastian Bruch, Franco Maria Nardini, Cosimo Rulli, Rossano Venturini<br>
   CoRR, 2025<br>
@@ -256,13 +253,15 @@ ECIR, 2026<br>
   📄 [paper](https://arxiv.org/abs/2602.05445) | 🛠️ [code](https://github.com/TusKANNy/seismic)
 
 ### Tutorials
-- [SIGIR 2024](https://lsr-tutorial.github.io/)
+- [Neural Lexical Search with Learned Sparse Retrieval: SIGIR 2024, 2025, and ECIR 2026](https://lsr-tutorial.github.io/)
+- Practical, Efficient, In-Memory Inverted Indexes: [SIGIR 2025](https://pisa-engine.github.io/sigir-2025.html) and [ECIR 2026](https://pisa-engine.github.io/ecir-2026.html)
 
 ### Software Libraries
 - [lsr-benchmark](https://github.com/reneuir/lsr-benchmark/) <img src="images/python-logo.svg" height="16" alt="Python"/><br>*Framework for the evaluation of the learned sparse retrieval paradigm to contrast efficiency and effectiveness across diverse retrieval scenarios*
 - [kANNolo](https://github.com/TusKANNy/kannolo) <img src="images/python-logo.svg" height="16" alt="Python"/> <img src="images/rust-logo.svg" height="22" alt="Rust"/><br>*Library for fast dense/sparse learned retrieval with graph-based indexes.*
 - [Seismic](https://github.com/TusKANNy/seismic) <img src="images/python-logo.svg" height="16" alt="Python"/> <img src="images/rust-logo.svg" height="22" alt="Rust"/><br>*State-of-the-Art library for fast sparse learned retrieval and indexing with focus on efficient inverted-index structures built on modern research*
 - [Vectorium](https://github.com/TusKANNy/vectorium) <img src="images/python-logo.svg" height="16" alt="Python"/> <img src="images/rust-logo.svg" height="22" alt="Rust"/><br>*A library for storing and accessing datasets of dense and sparse vectors, with efficient support for brute-force search and the core operations required by vector indexing data structures.*
+- [BMP (Block Max Pruning)](https://github.com/pisa-engine/BMP) <img src="images/python-logo.svg" height="16" alt="Python"/> <img src="images/rust-logo.svg" height="22" alt="Rust"/><br>*Extremely efficient learned sparse retrieval framework with an in-memory block-based inverted index.*
 - [Sentence Transformer](https://sbert.net/) <img src="images/python-logo.svg" height="16" alt="Python"/><br>*Framework for generating sentence embeddings and sparse encoders for semantic and sparse retrieval in NLP applications.*
 - [Pyserini](https://github.com/castorini/pyserini) <img src="images/python-logo.svg" height="16" alt="Python"/><br>*IR research toolkit built on Lucene that supports learned sparse retrieval models.*
 - [NMSLib](https://github.com/nmslib/nmslib) <img src="images/python-logo.svg" height="16" alt="Python"/> <img src="images/cpp-logo.svg" height="20" alt="C++"/><br>*Non-Metric Space Library (NMSLIB): An efficient similarity search library and a toolkit for evaluation of k-NN methods for generic non-metric spaces.*
@@ -271,6 +270,7 @@ ECIR, 2026<br>
 - [Qdrant](https://qdrant.tech/) <img src="images/python-logo.svg" height="16" alt="Python"/> <img src="images/rust-logo.svg" height="22" alt="Rust"/><br>*Open-source vector database supporting dense, sparse, and hybrid retrieval with native sparse vector indexing based on an inverted index for exact high-dimensional sparse search.*
 - [FlashRAG](https://github.com/RUC-NLPIR/FlashRAG) <img src="images/python-logo.svg" height="16" alt="Python"/><br>*A Python Toolkit for Efficient RAG Research.*
 - [PyTerrier](https://github.com/terrier-org/pyterrier) <img src="images/python-logo.svg" height="16" alt="Python"/><br>*A Python framework for performing information retrieval experiments (supporting PISA and BMP).*
+- [PISA](https://github.com/pisa-engine/pisa/) <img src="images/cpp-logo.svg" height="20" alt="C++"/><br>*A modular C++ inverted index and query processing framework supporting many compression codecs and dynamic pruning algorithms.*
 
 
 
@@ -327,7 +327,13 @@ ECIR, 2026<br>
 |---|---|---:|---:|---:|
 | `splade-v3` | [link](https://huggingface.co/datasets/tuskanny/quora-sparse) | `40` | `36` | `81.4` |
 
+#### Other Collections
+ - Check Anserini's suite of [pre-built indexes](https://github.com/castorini/anserini/blob/master/docs/prebuilt-indexes.md)
+
 ### List Maintainers (alphabetical order)
 Franco Maria Nardini (ISTI-CNR, Pisa, Italy)<br>
 Cosimo Rulli (ISTI-CNR, Pisa, Italy)<br>
 Rossano Venturini (University of Pisa, Italy)<br>
+
+#### Other Contributors
+Joel Mackenzie (The University of Queensland, Australia)<br>
