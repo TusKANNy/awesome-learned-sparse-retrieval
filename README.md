@@ -254,6 +254,10 @@ ECIR, 2026<br>
   Sebastian Bruch, Martino Fontana, Franco Maria Nardini, Cosimo Rulli, Rossano Venturini<br>
   ECIR, 2026<br>
   📄 [paper](https://arxiv.org/abs/2602.05445) | 🛠️ [code](https://github.com/TusKANNy/seismic)
+- *Fast, Compact, Immediate-Access Indexing for Learned Sparse Retrieval Systems*<br>
+  Billy Rule, Joel Mackenzie<br>
+  ECIR, 2026<br>
+  📄 [paper](https://doi.org/10.1007/978-3-032-21324-2_1)
 
 ### Tutorials
 - [SIGIR 2024](https://lsr-tutorial.github.io/)
