@@ -123,14 +123,17 @@ An extensive and commented list of resources on Learned Sparse Retrieval (LSR). 
   ICLR, 2026<br> 📄 [paper](https://arxiv.org/abs/2510.00671)
 - *LACONIC: Dense-Level Effectiveness for Scalable Sparse Retrieval via a Two-Phase Training Curriculum* <br>
   Zhichao Xu, Shengyao Zhuang, Crystina Zhang, Xueguang Ma, Yijun Tian, Maitrey Mehta, Jimmy Lin, Vivek Srikumar <br>
-  CoRR, 2026<br> 📄 [paper](https://doi.org/10.48550/arXiv.2601.01684)
+  SIGIR, 2026<br> 📄 [paper](https://doi.org/10.48550/arXiv.2601.01684)
 - *Sparton: Fast and Memory-Efficient Triton Kernel for Learned Sparse Retrieval*<br>
   Thong Nguyen, Cosimo Rulli, Franco Maria Nardini, Rossano Venturini, Andrew Yates<br>
-  CoRR, 2026<br> 📄 [paper](https://arxiv.org/abs/2603.25011)
+  SIGIR, 2026<br> 📄 [paper](https://arxiv.org/abs/2603.25011)
 - *Self-Improving Sparse Retrieval Through Heuristic Representation Refinement and Representation-Focused Learning* <br>
   Xiaojing Li,  Bin Wang, Xiaochun Yang, Meng Luo<br>
   AAAI, 2026<br>
   [paper](https://ojs.aaai.org/index.php/AAAI/article/view/38537/42499)
+- *From Tokens to Concepts: Leveraging SAE for SPLADE*<br>
+  Yuxuan Zong, Mathias Vast, Basile Van Cooten, Laure Soulier, Benjamin Piwowarski<br>
+  SIGIR, 2026<br> 📄 [paper](https://arxiv.org/pdf/2604.21511v1)
 
 - *To Case or Not to Case: An Empirical Study in Learned Sparse Retrieval* <br>
 Emmanouil Georgios Lionis, Jia-Huei Ju,  Angelos Nalmpantis, Casper Thuis, Sean MacAvaney, Andrew Yates <br>
@@ -150,6 +153,10 @@ ECIR, 2026<br>
   Joel Mackenzie, Andrew Trotman, Jimmy Lin<br>
   CoRR, 2021<br>
   📄 [paper](https://doi.org/10.48550/arXiv.2110.11540)
+- *Insights into the Efficiency of Open-Source Score-at-a-Time Search Engines: A Reproducibility Study*<br>
+  Katelyn Harlan, Andrew Trotman, Veronica Liesaputra<br>
+  SIGIR, 2026<br>
+  📄 [paper](https://andrewtrotman.github.io/papers/2026-2.pdf)
 - *Accelerating Learned Sparse Indexes Via Term Impact Decomposition*<br>
   Joel Mackenzie, Antonio Mallia, Alistair Moffat, Matthias Petri<br>
   EMNLP, 2022<br>
