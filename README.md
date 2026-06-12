@@ -149,7 +149,7 @@ An extensive and commented list of resources on Learned Sparse Retrieval (LSR). 
   [paper](https://doi.org/10.48550/arXiv.2601.17500)
 - *Understanding Wacky Weights: A Dissection of SPLADE's Learned Term Importance*<br>
   Gregory Polyakov, Harrisen Scells, Carsten Eickhoff<br>
-  SIGIR, 2026<br> 📄 [paper](https://arxiv.org/abs/2605.19628)
+  SIGIR, 2026<br> 📄 [paper](https://arxiv.org/abs/2605.19628) | 🛠️ [code](https://github.com/polgrisha/understanding-wacky-weights)
 - *No More K-means: Single-Stage Sparse Coding for Efficient Multi-Vector Retrieval*<br>
   Lixuan Guo, Yifei Wang, Tiansheng Wen, Aosong Feng, Stefanie Jegelka, Chenyu You<br>
   ICML, 2026<br> 📄 [paper](https://arxiv.org/abs/2605.30120)
