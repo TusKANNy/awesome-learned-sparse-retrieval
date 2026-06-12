@@ -147,6 +147,15 @@ An extensive and commented list of resources on Learned Sparse Retrieval (LSR). 
   Emmanouil Georgios Lionis, Jia-Huei Ju,  Angelos Nalmpantis, Casper Thuis, Sean MacAvaney, Andrew Yates <br>
   ECIR, 2026<br>
   [paper](https://doi.org/10.48550/arXiv.2601.17500)
+- *Understanding Wacky Weights: A Dissection of SPLADE's Learned Term Importance*<br>
+  Gregory Polyakov, Harrisen Scells, Carsten Eickhoff<br>
+  SIGIR, 2026<br> 📄 [paper](https://arxiv.org/abs/2605.19628)
+- *No More K-means: Single-Stage Sparse Coding for Efficient Multi-Vector Retrieval*<br>
+  Lixuan Guo, Yifei Wang, Tiansheng Wen, Aosong Feng, Stefanie Jegelka, Chenyu You<br>
+  ICML, 2026<br> 📄 [paper](https://arxiv.org/abs/2605.30120)
+- *Latent Terms: Dense Retrievers Contain Trivially Extractable BM25-ready Zipfian Vocabularies*<br>
+  Benjamin Clavié, Sean Lee, Aamir Shakir, Makoto P. Kato<br>
+  CoRR, 2026<br> 📄 [paper](https://arxiv.org/abs/2605.29384)
 ## Indexing LSR
 - *Efficient and Robust Approximate Nearest Neighbor Search Using Hierarchical Navigable Small World Graphs*<br>
   Yury A. Malkov, Dmitry A. Yashunin<br>
