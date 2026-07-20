@@ -156,6 +156,9 @@ An extensive and commented list of resources on Learned Sparse Retrieval (LSR). 
 - *Latent Terms: Dense Retrievers Contain Trivially Extractable BM25-ready Zipfian Vocabularies*<br>
   Benjamin Clavié, Sean Lee, Aamir Shakir, Makoto P. Kato<br>
   CoRR, 2026<br> 📄 [paper](https://arxiv.org/abs/2605.29384)
+- *Better than Dense? Investigating the Natural Backward Compatibility of Learned Sparse Representations*<br>
+  Jingfen Qiao, Gabrielle Poerwawinata, Thong Nguyen, Jia-Huei Ju, Eugene Yang, Evangelos Kanoulas, Andrew Yates<br>
+  SIGIR, 2026<br> 📄 [paper](https://doi.org/10.1145/3805712.3809842) | 🛠️ [code](https://github.com/JingfenQiao/LSR-BC)
 ## Indexing LSR
 - *Efficient and Robust Approximate Nearest Neighbor Search Using Hierarchical Navigable Small World Graphs*<br>
   Yury A. Malkov, Dmitry A. Yashunin<br>
@@ -281,6 +284,10 @@ An extensive and commented list of resources on Learned Sparse Retrieval (LSR). 
   Billy Rule, Joel Mackenzie<br>
   ECIR, 2026<br>
   📄 [paper](https://doi.org/10.1007/978-3-032-21324-2_1)
+- *GPUSparse: GPU-Accelerated Learned Sparse Retrieval with Parallel Inverted Indices*<br>
+  Ashutosh Sharma<br>
+  CoRR, 2026<br>
+  📄 [paper](https://arxiv.org/abs/2606.26441) | 🛠️ [code](https://github.com/ashutoshuiuc/gpu-sparse)
 
 ### Tutorials
 - [Neural Lexical Search with Learned Sparse Retrieval: SIGIR 2024, 2025, and ECIR 2026](https://lsr-tutorial.github.io/)
