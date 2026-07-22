@@ -159,6 +159,9 @@ An extensive and commented list of resources on Learned Sparse Retrieval (LSR). 
 - *Better than Dense? Investigating the Natural Backward Compatibility of Learned Sparse Representations*<br>
   Jingfen Qiao, Gabrielle Poerwawinata, Thong Nguyen, Jia-Huei Ju, Eugene Yang, Evangelos Kanoulas, Andrew Yates<br>
   SIGIR, 2026<br> 📄 [paper](https://doi.org/10.1145/3805712.3809842) | 🛠️ [code](https://github.com/JingfenQiao/LSR-BC)
+- *Why Advanced Encoders Lag on Sparse Retrieval? The Answer and an Approach to Bridging Vocabulary Gaps*<br>
+  Zhichao Geng, Yang Yang<br>
+  SIGIR, 2026<br> 📄 [paper](https://arxiv.org/abs/2607.00004)
 ## Indexing LSR
 - *Efficient and Robust Approximate Nearest Neighbor Search Using Hierarchical Navigable Small World Graphs*<br>
   Yury A. Malkov, Dmitry A. Yashunin<br>
