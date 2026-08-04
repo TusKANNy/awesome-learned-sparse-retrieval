@@ -162,6 +162,9 @@ An extensive and commented list of resources on Learned Sparse Retrieval (LSR). 
 - *Why Advanced Encoders Lag on Sparse Retrieval? The Answer and an Approach to Bridging Vocabulary Gaps*<br>
   Zhichao Geng, Yang Yang<br>
   SIGIR, 2026<br> 📄 [paper](https://arxiv.org/abs/2607.00004)
+- *Adaptive Sparsity Optimization with Learnable Soft Top-K and Per-Term Thresholding for Efficient Retrieval*<br>
+  Wentai Xie, Parker Carlson, Shanxiu He, Tao Yang<br>
+  SIGIR, 2026<br> 📄 [paper](https://dl.acm.org/doi/abs/10.1145/3805712.3809625)
 ## Indexing LSR
 - *Efficient and Robust Approximate Nearest Neighbor Search Using Hierarchical Navigable Small World Graphs*<br>
   Yury A. Malkov, Dmitry A. Yashunin<br>
@@ -291,6 +294,10 @@ An extensive and commented list of resources on Learned Sparse Retrieval (LSR). 
   Ashutosh Sharma<br>
   CoRR, 2026<br>
   📄 [paper](https://arxiv.org/abs/2606.26441) | 🛠️ [code](https://github.com/ashutoshuiuc/gpu-sparse)
+- *Scalable K-Means Guided Partitioning for Block-based Sparse Document Retrieval*<br>
+  Parker Carlson, Sammy Lesner, Antonio Mallia, Tao Yang<br>
+  SIGIR, 2026<br>
+  📄 [paper](https://dl.acm.org/doi/abs/10.1145/3805712.3809971)
 
 ### Tutorials
 - [Neural Lexical Search with Learned Sparse Retrieval: SIGIR 2024, 2025, and ECIR 2026](https://lsr-tutorial.github.io/)
